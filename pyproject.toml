@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "medibridge"
+version = "0.2.0"
+description = "Hinglish clinical text to structured English medical entities (NLP course project)."
+readme = "readme.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.26,<3",
+    "pandas>=2.0,<3",
+    "pyarrow>=14",
+    "scipy>=1.11",
+]
+
+[project.optional-dependencies]
+# Notebooks, plotting and statistics used in the milestone analyses.
+analysis = [
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "scikit-learn>=1.4",
+    "jupyter>=1.0",
+    "nbconvert>=7.0",
+    "nbformat>=5.9",
+]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+medibridge-download = "medibridge.download:main"
+medibridge-prepare = "medibridge.pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+extend-include = ["*.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "N", "RUF"]
+ignore = [
+    "RUF001",  # Devanagari and typographic characters in strings are intentional
+    "RUF002",
+    "RUF003",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"*.ipynb" = ["E501", "B018"]  # notebooks: long display lines, bare expressions for output
+
+[tool.ruff.lint.isort]
+known-first-party = ["medibridge"]

@@ -1,0 +1,9856 @@
+# id = df654cc44ffd1fd350e960c4b3555573
+not	O
+having	O
+adequate	B-advices
+rest	I-advices
+.	O
+Okay	O
+okay	O
+.	O
+So	O
+that	O
+continues	O
+for	O
+better	O
+part	O
+of	O
+the	O
+day	O
+.	O
+Hmm	O
+,	O
+hmm	O
+,	O
+hmm	O
+.	O
+Then	O
+
+# id = 239379bf43674064ebec2b62ae0f904a
+Patient	O
+has	O
+fever	B-clinical_findings
+,	O
+headache	B-clinical_findings
+,	O
+back	B-clinical_findings
+pain	I-clinical_findings
+,	O
+leg	B-clinical_findings
+pain	I-clinical_findings
+all	O
+over	O
+the	O
+body	O
+,	O
+I	O
+recommend	O
+to	O
+give	O
+Dolo	B-drugs
+650	I-drugs
+tablet	B-drugs
+thrice	B-advices
+a	I-advices
+day	I-advices
+for	O
+6	B-advices
+days	I-advices
+,	O
+and	O
+I	O
+also	O
+want	O
+to	O
+give	O
+Pantop	B-drugs
+DSR	I-drugs
+for	O
+7	B-advices
+days	I-advices
+.	O
+Ask	O
+patient	O
+to	O
+come	O
+after	O
+12	B-advices
+days	I-advices
+and	O
+give	O
+thyroxine	B-drugs
+25	B-drugs
+mcg	I-drugs
+for	O
+15	B-advices
+days	I-advices
+.	O
+
+# id = c72c2477df91dfbc1d79501125091246
+Gelusil	B-drugs
+tablet	I-drugs
+and	O
+many	O
+more	O
+drugs	O
+and	O
+see	B-advices
+after	I-advices
+7	I-advices
+days	I-advices
+.	O
+
+# id = bb4abc6dea3e9c9d0408eb08544df0b8
+Hello	O
+.	O
+The	O
+patient	O
+has	O
+fever	B-clinical_findings
+,	O
+headache	B-clinical_findings
+,	O
+body	B-clinical_findings
+ache	I-clinical_findings
+all	O
+over	O
+the	O
+body	O
+,	O
+and	O
+there	O
+'	O
+s	O
+also	O
+so	O
+much	O
+happening	O
+.	O
+I	O
+recommend	O
+him	O
+to	O
+do	O
+antigen	B-diagnostics
+test	I-diagnostics
+.	O
+I	O
+'	O
+m	O
+suspecting	O
+dengue	B-clinical_findings
+,	O
+and	O
+the	O
+patient	O
+should	O
+take	O
+dolo	B-drugs
+650	I-drugs
+,	O
+the	O
+patient	O
+should	O
+take	O
+Pantop	B-drugs
+DSR	I-drugs
+40	I-drugs
+.	O
+
+# id = ac88e44ad75cd049dee81f17434fcd97
+plus	O
+,	O
+there	O
+was	O
+this	O
+issue	O
+of	O
+,	O
+stomach	B-clinical_findings
+ache	I-clinical_findings
+,	O
+and	O
+,	O
+yeah	O
+,	O
+so	O
+we	O
+want	O
+to	O
+give	O
+him	O
+digene	B-drugs
+because	O
+I	O
+don	O
+'	O
+t	O
+think	O
+it	O
+'	O
+s	O
+a	O
+problem	O
+,	O
+it	O
+'	O
+s	O
+a	O
+big	O
+problem	O
+.	O
+
+# id = 719e7d511b65b9be8f5782cbbbd0678f
+and	O
+then	O
+there	O
+was	O
+also	O
+this	O
+problem	O
+of	O
+headaches	B-clinical_findings
+,	O
+and	O
+we	O
+did	O
+eye	B-diagnostics
+checkups	I-diagnostics
+and	O
+there	O
+is	O
+no	O
+problem	O
+.	O
+So	O
+,	O
+and	O
+there	O
+is	O
+a	O
+problem	O
+of	O
+wheezing	B-clinical_findings
+and	O
+sneezing	B-clinical_findings
+,	O
+so	O
+we	O
+'	O
+re	O
+giving	O
+him	O
+sinus	B-drugs
+antibiotics	I-drugs
+,	O
+uh	O
+,	O
+and	O
+also	O
+cetrizine	B-drugs
+
+# id = 8816ff9a978e279692f099c9d2fbfca5
+So	O
+it	O
+seems	O
+like	O
+the	O
+patient	O
+is	O
+seems	O
+really	O
+sad	B-clinical_findings
+and	O
+is	O
+not	B-clinical_findings
+able	I-clinical_findings
+to	I-clinical_findings
+wake	I-clinical_findings
+up	I-clinical_findings
+in	O
+the	O
+morning	O
+and	O
+feels	O
+energy	B-clinical_findings
+less	I-clinical_findings
+,	O
+and	O
+we	O
+did	O
+a	O
+blood	B-diagnostics
+test	I-diagnostics
+,	O
+so	O
+it	O
+'	O
+s	O
+thyroid	B-clinical_findings
+,	O
+so	O
+we	O
+'	O
+re	O
+administering	O
+him	O
+thyroxine	B-drugs
+.	O
+
+# id = fde8f874f6d1a8629b5b5f14e0458574
+Take	O
+metformin	B-drugs
+,	O
+take	O
+A	B-drugs
+to	I-drugs
+Z	I-drugs
+multivitamin	I-drugs
+capsules	I-drugs
+.	O
+What	O
+else	O
+?	O
+Take	O
+thyroxine	B-drugs
+25	I-drugs
+mcg	I-drugs
+tablet	I-drugs
+thrice	B-advices
+a	I-advices
+day	I-advices
+.	O
+
+# id = 5ecea1b17d5f02698284d58f3ed10943
+clear	O
+?	O
+
+# id = 970636ad728ef4619f1e504d93e8ded0
+Dolo	B-drugs
+650	I-drugs
+tablet	B-drugs
+thrice	B-advices
+a	I-advices
+day	I-advices
+after	B-advices
+meals	I-advices
+for	O
+5	B-advices
+days	I-advices
+.	O
+Panto	B-drugs
+DSR	I-drugs
+40	I-drugs
+for	O
+6	B-advices
+days	I-advices
+,	O
+once	B-advices
+a	I-advices
+day	I-advices
+before	B-advices
+breakfast	I-advices
+,	O
+and	O
+give	O
+gelusil	B-drugs
+tablet	B-drugs
+,	O
+give	O
+Eno	B-drugs
+sachet	B-drugs
+,	O
+and	O
+also	O
+take	O
+Calpol	B-drugs
+,	O
+take	O
+glimepiride	B-drugs
+.	O
+
+# id = ba9ac7908da55b9e305d9b4dc6fafb22
+Hey	O
+,	O
+hello	O
+.	O
+Patient	O
+'	O
+s	O
+name	O
+is	O
+Arya	O
+and	O
+he	O
+is	O
+30	O
+years	O
+old	O
+.	O
+Patient	O
+should	O
+take	O
+Dolo	B-drugs
+650	I-drugs
+three	B-advices
+times	I-advices
+a	I-advices
+day	I-advices
+for	O
+the	O
+next	B-advices
+three	I-advices
+days	I-advices
+and	O
+he	O
+should	O
+take	O
+Crocin	B-drugs
+for	O
+the	O
+next	B-advices
+one	I-advices
+week	I-advices
+,	O
+SOS	B-advices
+.	O
+
+# id = 05fc6cd4976369ffe741097f7195c424
+And	O
+i	O
+think	O
+that	O
+'	O
+s	O
+the	O
+only	O
+chronic	O
+issue	O
+.	O
+Okay	O
+,	O
+fine	O
+.	O
+Thank	O
+you	O
+.	O
+Thank	O
+you	O
+.	O
+So	O
+I	O
+'	O
+ll	O
+stop	O
+this	O
+.	O
+
+# id = 4a17d55285354c184608fa601e0255a6
+Take	O
+care	O
+
+# id = e462afb83a63ed8693970dc3657fd397
+I	O
+suggest	O
+him	O
+to	O
+take	O
+CBC	B-diagnostics
+blood	I-diagnostics
+test	I-diagnostics
+,	O
+haemoglobin	B-diagnostics
+blood	I-diagnostics
+test	I-diagnostics
+,	O
+HbA1C	B-diagnostics
+test	I-diagnostics
+.	O
+And	O
+consult	B-advices
+after	I-advices
+5	I-advices
+days	I-advices
+.	O
+
+# id = 327bb080fc254d1b1b1a6805f7f25d2a
+three	B-advices
+times	I-advices
+a	I-advices
+day	I-advices
+for	O
+twelve	B-advices
+days	I-advices
+and	O
+show	B-advices
+me	I-advices
+after	I-advices
+one	I-advices
+week	I-advices
+
+# id = e667aedadca19996dc09546f9cd6d78c
+Patient	O
+has	O
+stomach	B-clinical_findings
+pain	I-clinical_findings
+,	O
+headache	B-clinical_findings
+,	O
+leg	B-clinical_findings
+pain	I-clinical_findings
+,	O
+wherein	O
+leg	B-clinical_findings
+pain	I-clinical_findings
+is	O
+,	O
+flowing	O
+through	O
+his	O
+back	B-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+thigh	I-clinical_findings
+.	O
+Patient	O
+has	O
+had	O
+history	O
+of	O
+spondylolisthesis	B-clinical_findings
+.	O
+Currently	O
+it	O
+'	O
+s	O
+recuperated	O
+.	O
+Patient	O
+also	O
+has	O
+an	O
+ACL	B-clinical_findings
+of	O
+the	O
+left	B-clinical_findings
+knee	I-clinical_findings
+.	O
+I	O
+recommend	O
+patient	O
+taking	O
+tendolife	B-drugs
+tablet	O
+for	O
+.	O
+
+# id = e37e7ef80c8d18dd8d6ac32ab3930744
+Respiratory	B-clinical_findings
+clear	I-clinical_findings
+,	O
+bilateral	B-clinical_findings
+air	I-clinical_findings
+entry	I-clinical_findings
+.	O
+CNS	B-misc_medical
+,	O
+no	B-clinical_findings
+focal	I-clinical_findings
+neurological	I-clinical_findings
+deficit	I-clinical_findings
+.	O
+Local	O
+exam	O
+mein	O
+no	B-clinical_findings
+penile	I-clinical_findings
+discharge	I-clinical_findings
+,	O
+no	B-clinical_findings
+costovertebral	I-clinical_findings
+angle	I-clinical_findings
+tenderness	I-clinical_findings
+.	O
+
+# id = db4c775c7739f2ffd936877775b71542
+facial	B-clinical_findings
+swelling	I-clinical_findings
+
+# id = 455d9185a0675565bbe51a18fd851513
+ethanol	B-drugs
+user	I-drugs
+
+# id = ba98219ec88d93bf6ae06c8c7efc5e9c
+recovered	B-clinical_findings
+form	I-clinical_findings
+covid	I-clinical_findings
+19	I-clinical_findings
+infection	I-clinical_findings
+october	I-clinical_findings
+2021	I-clinical_findings
+
+# id = 7329b248d10ca32f20d6ce8098b51878
+mometasone	B-drugs
+
+# id = a8fcd7347cb91be46b20e901548b0e9d
+Telmiride	B-drugs
+40	I-drugs
+Tablet	I-drugs
+
+# id = f85a9e7afd23cfa1274f4ffb3a6b53dc
+stasis	B-clinical_findings
+dermatitis	I-clinical_findings
+
+# id = d9b661c0d97897ce088c5d1644956852
+Lupin	B-drugs
+Limited	I-drugs
+
+# id = e1d6b47ac63a0fd4e7bf56bd68cbd801
+Telvas	B-drugs
+H	I-drugs
+40	I-drugs
+by	I-drugs
+12	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+
+# id = 0dd20122e65a5e70acb475dca3c8356a
+acute	B-clinical_findings
+gastro	I-clinical_findings
+enteritis	I-clinical_findings
+
+# id = 9ecb1991d1cfa92b61b3f3344912342f
+urinary	B-clinical_findings
+tract	I-clinical_findings
+infection	I-clinical_findings
+
+# id = 760adad31f19fdd2a1bb093721e48559
+Cdh	B-drugs
+Forte	I-drugs
+300	I-drugs
+milligram	I-drugs
+by	I-drugs
+500	I-drugs
+microgram	I-drugs
+Tablet	I-drugs
+
+# id = 5e0523a06582e049c31f9ef4f1fff01c
+Bandy	B-drugs
+Plus	I-drugs
+12	I-drugs
+Tablet	I-drugs
+
+# id = 92e43fbfc15085be103659f883593486
+postherpetic	B-clinical_findings
+neuralgia	I-clinical_findings
+
+# id = 845484cc431b2d1bbdd30050e1a79f9a
+Nexito	B-drugs
+Forte	I-drugs
+0	I-drugs
+.	I-drugs
+5mg	I-drugs
+by	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+
+# id = e03e85ecd943d536cfd1bd55bb0f0863
+epileptic	B-drugs
+spasms	I-drugs
+myoclonic	I-drugs
+seizures	I-drugs
+neck	I-drugs
+drop	I-drugs
+
+# id = 7f7fe79a1cc53a62be18ca25e76e4d80
+rifabutin	B-drugs
+
+# id = 67969869b62bf4d56eb4cab5f62a6c2b
+Dilzem	B-drugs
+Sr	I-drugs
+90mg	I-drugs
+
+# id = f29c222dd46734260820c65c4f4ef9f7
+ambroxol	B-drugs
+
+# id = 6dc9965e0cc4af1984f1b941047f7eff
+ferrous	B-drugs
+ascorbate	I-drugs
+
+# id = 2a04f659a310a549a698e81450c4bcfe
+no	B-clinical_findings
+urinary	I-clinical_findings
+complains	I-clinical_findings
+
+# id = 28d483420966dc38ed73d09f77806ebd
+Macleods	B-drugs
+Pharmaceuticals	I-drugs
+private	I-drugs
+limited	I-drugs
+
+# id = 7246f7db86622e6b38d16e0af94d54c0
+alkaline	B-clinical_findings
+phosphate	I-clinical_findings
+63	I-clinical_findings
+
+# id = bf60290daa551315cfc216f6b8f911a4
+at	B-drugs
+high	I-drugs
+risk	I-drugs
+for	I-drugs
+ebola	I-drugs
+hemorrhagic	I-drugs
+fever	I-drugs
+
+# id = 4c776e866e679a8fad4bd9ffad2ca6bd
+pain	B-clinical_findings
+radiating	I-clinical_findings
+to	I-clinical_findings
+middle	I-clinical_findings
+abdomen	I-clinical_findings
+
+# id = 1325f635a962f8db6a60f9093e2cd4f9
+astigmatism	B-clinical_findings
+
+# id = 9d138cd746871b553deaab29efbdf3c5
+acute	B-clinical_findings
+gastro	I-clinical_findings
+enteritis	I-clinical_findings
+since	I-clinical_findings
+morning	I-clinical_findings
+present	I-clinical_findings
+
+# id = 55b5c8b4b021534a41e890be461b84a9
+capreomycin	B-drugs
+
+# id = 1d2d9c8960b29b4180cf46ba09a269b4
+pleuretic	B-diagnostics
+chest	I-diagnostics
+pain	I-diagnostics
+
+# id = 526c19caf74e796e49e21f65d009d566
+regular	B-advices
+exercise	I-advices
+
+# id = 1ea7351e810f558e956380ed8366a4d3
+aorto	B-clinical_findings
+iliac	I-clinical_findings
+disease	I-clinical_findings
+with	I-clinical_findings
+bilateral	I-clinical_findings
+left	I-clinical_findings
+lower	I-clinical_findings
+limb	I-clinical_findings
+ischemia	I-clinical_findings
+
+# id = 4f2913c80678f333965042615ae7a9d4
+usg	B-diagnostics
+abdomen	I-diagnostics
+and	I-diagnostics
+pelvis	I-diagnostics
+
+# id = d1d44a2c06f3654c40653ccef9645b66
+Rozustat	B-drugs
+10	I-drugs
+Tablet	I-drugs
+
+# id = 4af92504e029304071916d10b97dce3d
+clobetasol	B-drugs
+
+# id = 1c00ac2c4151222aeb277de41116d84f
+psoralen	B-drugs
+
+# id = 1c3c84b9301730ca2b1c52e3fb3bd1c4
+Akurit	B-drugs
+4	I-drugs
+Tablet	I-drugs
+
+# id = 876df5f221d9df8dceb6badf49e064f7
+Zee	B-drugs
+Laboratories	I-drugs
+
+# id = b51446ee134bfbd50c3e82722b84010d
+Fluticasone	B-drugs
+0	I-drugs
+.	I-drugs
+05	I-drugs
+%	I-drugs
+
+# id = 4c95d62eb13842e320019f3d20f9c6bd
+Nebi	B-drugs
+Am	I-drugs
+5mg	I-drugs
+by	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+
+# id = 4bd8e4bd4375f382de029f3bd3a72107
+Uprise	B-drugs
+D3	I-drugs
+60K	I-drugs
+Syrup	I-drugs
+
+# id = 65123ba5570a76b918d6e053b89fc51d
+uti	B-clinical_findings
+urinary	I-clinical_findings
+tract	I-clinical_findings
+infection	I-clinical_findings
+
+# id = b198d949030faa011e73e5b568b5afec
+right	B-clinical_findings
+ear	I-clinical_findings
+lobe	I-clinical_findings
+injury	I-clinical_findings
+
+# id = bb083a437521533463dc05083ec63fd9
+hrct	B-clinical_findings
+chest	I-clinical_findings
+
+# id = 37d68de6bee7b0964762f2354306bcef
+hypertension	B-clinical_findings
+
+# id = 3942a363970686eb4b484c5d84c7fc23
+Sucrafil	B-drugs
+O	I-drugs
+Sugar	I-drugs
+Free	I-drugs
+500mg	I-drugs
+by	I-drugs
+5ml	I-drugs
+10mg	I-drugs
+by	I-drugs
+5ml	I-drugs
+Gel	I-drugs
+
+# id = c3b692ff80e869d463c677b58408476a
+ure	B-diagnostics
+urine	I-diagnostics
+routine	I-diagnostics
+examination	I-diagnostics
+
+# id = 5702fcab8afe4908569d5cb81197283f
+Pantin	B-drugs
+40Mg	I-drugs
+Tablet	I-drugs
+
+# id = 54b6e01d7f9ba32013473a939a342d39
+urine	B-diagnostics
+routine	I-diagnostics
+
+# id = 3fd5145bbfed755aa2c90ddb98f7aebd
+Pantop	B-drugs
+40	I-drugs
+Tablet	I-drugs
+
+# id = 909fec6b72d4794bb30a9e9e50bee960
+Vildep	B-drugs
+M	I-drugs
+850Mg	I-drugs
+by	I-drugs
+50Mg	I-drugs
+Tablet	I-drugs
+
+# id = f67f78da565e047aa79c1d4d7575378b
+Cloba	B-drugs
+10	I-drugs
+Tablet	I-drugs
+
+# id = 334452f64381ddbef3de57c593967a8e
+acute	B-clinical_findings
+otitis	I-clinical_findings
+externa	I-clinical_findings
+
+# id = b3d15a2c5f45b5ebf16f5ffb23325d73
+Nexpro	B-drugs
+40	I-drugs
+Tablet	I-drugs
+
+# id = 0e11a3f4b6a12b66ac94d70a6eb648b5
+Amlopres	B-drugs
+5	I-drugs
+Tablet	I-drugs
+
+# id = 7b4a557201f121fdb2b860e94ad916a1
+hyperlipidemia	B-clinical_findings
+for	I-clinical_findings
+follow	I-clinical_findings
+up	I-clinical_findings
+
+# id = 1ace3a17451d9e99ee2830b588e5a0ee
+Boehringer	B-drugs
+Ingelheim	I-drugs
+
+# id = 34a63492ecbe4c7c989d553c69c8fd47
+Cosglo	B-drugs
+New	I-drugs
+Cream	I-drugs
+
+# id = 6736ba36aa9966f0804f9c5c592a1719
+telmisartan	B-clinical_findings
+40	I-clinical_findings
+chlorthalidone	I-clinical_findings
+12	I-clinical_findings
+.	I-clinical_findings
+5	I-clinical_findings
+
+# id = ef5149695db18261a832fc69a1ec0506
+Clavix	B-drugs
+As	I-drugs
+150	I-drugs
+Tablet	I-drugs
+
+# id = 9c9bceb830da371826f87ba166b3c485
+GIVE	B-advices
+LEMON	I-advices
+JUICE	I-advices
+COCONUT	I-advices
+WATER	I-advices
+LASSI	I-advices
+SOUP	I-advices
+ETC	I-advices
+
+# id = 6073cf2339c32634ae79cbccd840a32f
+presentation	B-drugs
+for	I-drugs
+edema	I-drugs
+over	I-drugs
+body	I-drugs
+from	I-drugs
+last	I-drugs
+15	I-drugs
+days	I-drugs
+associted	I-drugs
+with	I-drugs
+abdominal	I-drugs
+bloating	I-drugs
+
+# id = 9a44398dc1b6000fa44eaad04ee12891
+Yees	B-drugs
+40	I-drugs
+Tablet	I-drugs
+
+# id = 65e8479f2491581a5a29df2afd3a103d
+cervical	B-clinical_findings
+radiculopathy	I-clinical_findings
+
+# id = c5a7ca5b4c305730f7c4095bfdcc0cd6
+chest	B-clinical_findings
+pain	I-clinical_findings
+
+# id = 795529d917280b8289e8eaf862d86816
+recurrent	B-clinical_findings
+abdominal	I-clinical_findings
+pain	I-clinical_findings
+
+# id = 6ec1649998581c814e0a500624faf3f9
+Leaky	B-advices
+Gut	I-advices
+care	I-advices
+1	I-advices
+tspoon	I-advices
+twice	I-advices
+a	I-advices
+day	I-advices
+
+# id = 8e8e08d5b8c0409fb702445187c43015
+Telster	B-drugs
+40Mg	I-drugs
+Tablet	I-drugs
+
+# id = 2c0c4dc943c08ae26d89ff8a8933f3fb
+Telvas	B-clinical_findings
+Am	I-clinical_findings
+40mg	I-clinical_findings
+by	I-clinical_findings
+5mg	I-clinical_findings
+Tablet	I-clinical_findings
+
+# id = 25ad832097011657e3ac00729bf9443c
+recurrent	B-clinical_findings
+nasal	I-clinical_findings
+congestion	I-clinical_findings
+
+# id = 33c1c2175df7fc36ac95ab6ba88485d1
+dry	B-clinical_findings
+cough	I-clinical_findings
+
+# id = 2bcd40e80aeafeb0c6d0e1cbed843fc9
+decapeptide	B-drugs
+
+# id = b871f4e40d2aaa83146369cc433e57c9
+review	B-drugs
+after	I-drugs
+1	I-drugs
+month	I-drugs
+
+# id = 7c801d3acdca9761c720f92cf8009727
+lymphadenopathy	B-clinical_findings
+
+# id = af58888fa0e7f7d0413152f027a07d7f
+orthopnea	B-clinical_findings
+
+# id = 778c7f3ce847cd9e1e7de429c754427a
+Torrent	B-drugs
+Pharmaceuticals	I-drugs
+limited	I-drugs
+
+# id = ff12d3c56b513bed3815f28bfc64de10
+Folitrax	B-drugs
+2	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+
+# id = 6b76ca564aeeaecc2d6405bcb2491a66
+Goldcal	B-drugs
+Max	I-drugs
+Soft	I-drugs
+Gelatin	I-drugs
+Capsule	I-drugs
+
+# id = aedd5d5ff609b8f5880ae5f6363085f9
+light	B-clinical_findings
+headedness	I-clinical_findings
+
+# id = 3b0b605e69952adb731a6eb3bc37f5aa
+Stator	B-drugs
+Asp	I-drugs
+75	I-drugs
+Capsule	I-drugs
+
+# id = edeb99ad36356ad92e5ddda7f12492a3
+osteoarthritis	B-clinical_findings
+of	I-clinical_findings
+right	I-clinical_findings
+knee	I-clinical_findings
+joint	I-clinical_findings
+
+# id = 995aaef9f98116261ec3a5306e09dddd
+Montek	B-drugs
+Bl	I-drugs
+20mg	I-drugs
+by	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+
+# id = d821ddb1f10609971e77b6a16f309c24
+Nimsaid	B-drugs
+P	I-drugs
+100mg	I-drugs
+by	I-drugs
+325mg	I-drugs
+Tablet	I-drugs
+
+# id = 6d33e2b728ed54cf9b30d63898be391d
+Goutnil	B-drugs
+0	I-drugs
+.	I-drugs
+5Mg	I-drugs
+Tablet	I-drugs
+
+# id = 156e336fa020b6ab5ef90330c4555f73
+Razo	B-clinical_findings
+D	I-clinical_findings
+30	I-clinical_findings
+by	I-clinical_findings
+20	I-clinical_findings
+
+# id = a6340b0af83c26dce3fb2c16d1294900
+mesterolone	B-drugs
+
+# id = 5be0666755a22f1e81689defc03f96f5
+fradiomycin	B-drugs
+
+# id = b2e848ed83ddd0274c2f6107f821d334
+asom	B-drugs
+acute	I-drugs
+suppurative	I-drugs
+otitis	I-drugs
+media	I-drugs
+
+# id = 93c21e2aac193a147c196d85584ba542
+Ivecop	B-drugs
+12	I-drugs
+Tablet	I-drugs
+
+# id = 5a2ef2d86d451af12b514ecf5db0961d
+Signoflam	B-drugs
+Tablet	I-drugs
+
+# id = 0c52b82ba9603dc25239f3d465eca55e
+dexrabeprazole	B-drugs
+
+# id = aaeb8866e82fd3aed330abce87f67196
+Itchless	B-drugs
+Soap	I-drugs
+
+# id = 276365836ff3046a46369e6c062c4407
+copd	B-clinical_findings
+chronic	I-clinical_findings
+obstructive	I-clinical_findings
+pulmonary	I-clinical_findings
+disease	I-clinical_findings
+
+# id = 03735eea58bb519a26e8de4b229c1809
+Formoflo	B-drugs
+250	I-drugs
+
+# id = ed69dce388fc9817777361328337e21b
+Sanofi	B-drugs
+India	I-drugs
+Limited	I-drugs
+
+# id = 525299485714ca34e364ab04a4342903
+irritability	B-clinical_findings
+
+# id = 3259e463ede18d681756087587bfc98a
+Ciplar	B-drugs
+La	I-drugs
+20	I-drugs
+Tablet	I-drugs
+
+# id = ba5498a61abdf9a98e0c7de5c389defe
+body	B-clinical_findings
+aches	I-clinical_findings
+
+# id = fe5db289848da3e71bb8e317c5ea9b09
+oral	B-advices
+candidiasis	I-advices
+
+# id = a2c3f04c8cb523479f8f880fa4f7b724
+nocturia	B-clinical_findings
+
+# id = 9a91468dcf19324522b66aaa8eebce2d
+paroxysmal	B-clinical_findings
+atrial	I-clinical_findings
+fibrillation	I-clinical_findings
+
+# id = b26767b8459a4ede9b65c27cd123aa95
+DRINK	B-advices
+LUKEWARM	I-advices
+WATER	I-advices
+
+# id = f507b12e7587dc37c25a12459a7cfce5
+dry	B-clinical_findings
+cough	I-clinical_findings
+since	I-clinical_findings
+20	I-clinical_findings
+days	I-clinical_findings
+more	I-clinical_findings
+during	I-clinical_findings
+lying	I-clinical_findings
+down	I-clinical_findings
+no	I-clinical_findings
+fever	I-clinical_findings
+no	I-clinical_findings
+sputum	I-clinical_findings
+
+# id = edb4f1adb8852f6d3647c9b3b78c2302
+alzheimer	B-clinical_findings
+dementia	I-clinical_findings
+
+# id = d1174845be826e933405a17a442d2a75
+pain	B-clinical_findings
+during	I-clinical_findings
+deglutition	I-clinical_findings
+
+# id = a96213760693021b4793823972b42c6e
+Aristo	B-drugs
+Pharmaceuticals	I-drugs
+private	I-drugs
+limited	I-drugs
+
+# id = 415e1d3c6fdc5965c1830d327ea23d67
+left	B-clinical_findings
+lower	I-clinical_findings
+limb	I-clinical_findings
+pain	I-clinical_findings
+
+# id = b5bdac939a12311f7f6b44ff5da8626c
+Bifolate	B-drugs
+Tablet	I-drugs
+
+# id = f93ef41e5c150e114356a262145f5e8f
+diffusre	B-clinical_findings
+hair	I-clinical_findings
+loss	I-clinical_findings
+with	I-clinical_findings
+
+# id = 915ac1c6f4924d8c10b22279916f1e7a
+Corona	B-drugs
+Remedies	I-drugs
+private	I-drugs
+limited	I-drugs
+
+# id = 8e749975b33b20dd913257fef7fe3130
+Telma	B-drugs
+80	I-drugs
+H	I-drugs
+Tablet	I-drugs
+
+# id = 23aa003d527017349289818105f40233
+Novastat	B-drugs
+Cv	I-drugs
+20	I-drugs
+Capsule	I-drugs
+
+# id = 8618e1986cdace02747942510c7d8218
+Deplatt	B-drugs
+Cv	I-drugs
+20	I-drugs
+Capsule	I-drugs
+
+# id = ca5fb63e306d7c669361046b63428f43
+Freeair	B-drugs
+27	I-drugs
+.	I-drugs
+5mcg	I-drugs
+
+# id = 312678368450526a56de19eaad039d22
+DV	B-drugs
+60K	I-drugs
+Soft	I-drugs
+Gelatin	I-drugs
+Capsule	I-drugs
+
+# id = 737f12e45bb4b7b26639b04225712dc2
+vulval	B-clinical_findings
+itching	I-clinical_findings
+
+# id = 2c74b6c6583b47e3a004449be6e8ffc0
+Gabaneuron	B-clinical_findings
+Nt	I-clinical_findings
+100	I-clinical_findings
+Tablet	I-clinical_findings
+
+# id = 28ce33a1d3f0e6de83b834dcc7309c92
+Cordarone	B-drugs
+100mg	I-drugs
+Tablet	I-drugs
+
+# id = db2aaaa28fe602314df34e139ca43046
+Selcovit	B-drugs
+5G	I-drugs
+Tablet	I-drugs
+
+# id = 853c1917a8dcd3364779945c2f63f719
+Vildacop	B-drugs
+M	I-drugs
+500mg	I-drugs
+by	I-drugs
+50mg	I-drugs
+Tablet	I-drugs
+
+# id = fba6978e9784d516c72afc6f7f6dc78c
+Ecothral	B-drugs
+500Mg	I-drugs
+Tablet	I-drugs
+
+# id = d6556be7356e4b76ba629f72e78d267c
+feeling	B-clinical_findings
+anxious	I-clinical_findings
+
+# id = c74299406aef41760a82beeb5a21a1d8
+Udapa	B-clinical_findings
+S	I-clinical_findings
+10	I-clinical_findings
+by	I-clinical_findings
+100	I-clinical_findings
+Tablet	I-clinical_findings
+
+# id = 97064cb88186bf97d12233d99bea7bcc
+Becosules	B-drugs
+Capsule	I-drugs
+
+# id = 1c67836c61e24b97246944d59ed9ec19
+dm	B-clinical_findings
+1	I-clinical_findings
+year	I-clinical_findings
+
+# id = 67c67f1e9fe1686ebaa1099ac1c59c1b
+varicose	B-clinical_findings
+vein	I-clinical_findings
+finding	I-clinical_findings
+
+# id = dfefebff28880fd55ff4d60c50fb0750
+neuropathic	B-drugs
+pain	I-drugs
+
+# id = d1b2a5e8459324ba1cba942a66d76b01
+J	B-drugs
+B	I-drugs
+Chemicals	I-drugs
+and	I-drugs
+Pharmaceuticals	I-drugs
+Limited	I-drugs
+
+# id = 5a8ddf99863c39a312656e498fd6a42b
+ritodrine	B-drugs
+
+# id = 1d55fdf9e5899fdaad28516ca63f8af1
+sodium	B-drugs
+picosulfate	I-drugs
+
+# id = 2083671984b28e846864b42ed578f529
+Rabiwok	B-drugs
+Dsr	I-drugs
+30mg	I-drugs
+slash	I-drugs
+20mg	I-drugs
+
+# id = fd40f0a90de32755bf09de76872844ae
+pain	B-clinical_findings
+in	I-clinical_findings
+small	I-clinical_findings
+joints	I-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+hand	I-clinical_findings
+and	I-clinical_findings
+foot	I-clinical_findings
+
+# id = 7b6e5af5e1a23c3a27fa285e9046f2dc
+Thyrox	B-drugs
+37	I-drugs
+.	I-drugs
+5mcg	I-drugs
+Tablet	I-drugs
+
+# id = ac6fd1af6657e094ff4dcb2a77ae74f6
+difficulty	B-clinical_findings
+swallowing	I-clinical_findings
+food	I-clinical_findings
+
+# id = 78e10639d01324494c487d092e0fb31a
+Aciloc	B-drugs
+300	I-drugs
+Tablet	I-drugs
+
+# id = 22c6e5630021408d758e227c200f7532
+c5	B-clinical_findings
+c6	I-clinical_findings
+
+# id = ac57440eb744144996accc55e0e45a35
+right	B-clinical_findings
+lower	I-clinical_findings
+limb	I-clinical_findings
+cvd	I-clinical_findings
+c6	I-clinical_findings
+disease	I-clinical_findings
+
+# id = a2f1a1c0c4bf382653cc9f6575a47bf2
+Keraglo	B-drugs
+Ad	I-drugs
+2	I-drugs
+%	I-drugs
+weight	I-drugs
+by	I-drugs
+volume	I-drugs
+
+# id = 603a9fc91b20fb98c8c32aa82ddb68fe
+right	B-clinical_findings
+sided	I-clinical_findings
+upper	I-clinical_findings
+limp	I-clinical_findings
+weakness	I-clinical_findings
+with	I-clinical_findings
+right	I-clinical_findings
+face	I-clinical_findings
+weakness	I-clinical_findings
+
+# id = e0863d03e3fe7a52c80e9cf98b1105f0
+bleeding	B-clinical_findings
+from	I-clinical_findings
+cut	I-clinical_findings
+
+# id = e5a8f607ebb1f8bc522e4a40ce63ff2f
+high	B-clinical_findings
+bmi	I-clinical_findings
+
+# id = 486a6b9bfb2f8910cabf3cfc3f053320
+Midacip	B-drugs
+0	I-drugs
+.	I-drugs
+5mg	I-drugs
+
+# id = e38a7a4726a706619a323997e33cb6ab
+acute	B-advices
+otitis	I-advices
+media	I-advices
+
+# id = 21d762a1665b006eea5ff07bf88ce208
+pms	B-clinical_findings
+
+# id = a22b885fd9180e3d5205189e29d0736f
+dengue	B-diagnostics
+ns1	I-diagnostics
+elisa	I-diagnostics
+
+# id = 06c379d84a009a082af832f25ef7beca
+early	B-clinical_findings
+satiety	I-clinical_findings
+
+# id = a9e1df7dcb45dedae3ad1067625d67f9
+erenumab	B-drugs
+
+# id = 0ceb1dc39aa79bce6cd85def37437de9
+Xenadom	B-drugs
+250	I-drugs
+Tablet	I-drugs
+
+# id = 3f68475142784b18b1a7168273af466d
+acute	B-clinical_findings
+pharyngitis	I-clinical_findings
+
+# id = abdf69877ac33bee61f205380e17e0d2
+Ondem	B-drugs
+Md	I-drugs
+8	I-drugs
+
+# id = 546ee75a6cb19316a04feaacf6142c24
+pnc	B-clinical_findings
+3	I-clinical_findings
+weeks	I-clinical_findings
+
+# id = 72667e5e4468cb935a73118d7cdfd6bb
+sensation	B-clinical_findings
+of	I-clinical_findings
+foreign	I-clinical_findings
+body	I-clinical_findings
+in	I-clinical_findings
+throat	I-clinical_findings
+
+# id = 770c5455ace9e6fa708cc50bda2d7a07
+isoflurane	B-drugs
+
+# id = ad02b58b9a9620f9754c245c1011fb25
+Rexipra	B-drugs
+5	I-drugs
+Tablet	I-drugs
+
+# id = 9af360275a31d242c275ed60157a9175
+vonoprazan	B-drugs
+10mg	I-drugs
+
+# id = 39e6777e6aea6971fc506921d30c619a
+Overseas	B-drugs
+Healthcare	I-drugs
+Private	I-drugs
+Limited	I-drugs
+
+# id = 4cba3d15c22bff16a7952066b88df00f
+Lubrijoint	B-drugs
+500	I-drugs
+Tablet	I-drugs
+
+# id = 9340acf686a1d7bd0ca14c105387eb7c
+Have	B-advices
+1	I-advices
+.	I-advices
+25	I-advices
+to	I-advices
+1	I-advices
+.	I-advices
+5	I-advices
+litres	I-advices
+of	I-advices
+fluids	I-advices
+per	I-advices
+day	I-advices
+
+# id = ac1c9ae396897e5e009f25a7c020f794
+Drink	B-advices
+more	I-advices
+water	I-advices
+
+# id = a75b7d2dbe57d48cb266dd3f649cfb37
+wheeze	B-clinical_findings
+
+# id = b4f8eadfbf6c25c7b73b935aa1560933
+Rab	B-drugs
+D	I-drugs
+30mg	I-drugs
+by	I-drugs
+20mg	I-drugs
+
+# id = ccc72cfbf5111dfe0c322e781d362c44
+Pioz	B-drugs
+Mf	I-drugs
+15	I-drugs
+
+# id = 135a67458a39d02e94727395bf44cacd
+Left	B-clinical_findings
+Ventricular	I-clinical_findings
+Ejection	I-clinical_findings
+Fraction	I-clinical_findings
+40	I-clinical_findings
+%	I-clinical_findings
+
+# id = 9418891f36a21d1fdad023054379d3a7
+generalized	B-clinical_findings
+acute	I-clinical_findings
+body	I-clinical_findings
+aches	I-clinical_findings
+
+# id = 84d432d141512ddc26542083dc62ddcd
+increased	B-clinical_findings
+coughing	I-clinical_findings
+
+# id = ae2c1f99a60c6e3c90221d70f6d228bf
+fbs	B-diagnostics
+ppbs	I-diagnostics
+
+# id = d70d7bb633cfc357d1318b613ff10214
+fracture	B-clinical_findings
+of	I-clinical_findings
+superior	I-clinical_findings
+pubic	I-clinical_findings
+ramus	I-clinical_findings
+
+# id = 7afa62931e43f066039407b1aec1a753
+covid	B-clinical_findings
+negative	I-clinical_findings
+
+# id = 04c4bc445e75712da7332db33f73d0bf
+bitterness	B-advices
+
+# id = 8880e87250dbdff16df947142b5ba7be
+rbs	B-diagnostics
+
+# id = 4dccb21774c99fd834567e5c37d03ede
+Zy	B-drugs
+Q	I-drugs
+200	I-drugs
+Tablet	I-drugs
+
+# id = dcca7d5500d1c63118dc33a793879271
+Rablet	B-drugs
+D	I-drugs
+40	I-drugs
+
+# id = 5fe8444d5124bdeae063d0188a440243
+dehydration	B-drugs
+
+# id = 0a22f75aeb781a19045a364b13f42a94
+oral	B-clinical_findings
+pain	I-clinical_findings
+
+# id = 32590581bd606ccd94f06cf462ee59b9
+Drink	B-drugs
+Lots	I-drugs
+Of	I-drugs
+Liquids	I-drugs
+Like	I-drugs
+Water	I-drugs
+Nimbu	I-drugs
+Pani	I-drugs
+Coconut	I-drugs
+Water	I-drugs
+Lassi	I-drugs
+ORS	I-drugs
+Juices	I-drugs
+etc	I-drugs
+
+# id = 7668242f7d15e22a009541dc22d000cd
+diabetes	B-clinical_findings
+since	I-clinical_findings
+10	I-clinical_findings
+years	I-clinical_findings
+
+# id = e3fec7e79523e95d1524c0594394553d
+fluid	B-advices
+as	I-advices
+per	I-advices
+thirst	I-advices
+
+# id = 876da8e485bb4eaea01f775d0d262c91
+usg	B-diagnostics
+w	I-diagnostics
+by	I-diagnostics
+a	I-diagnostics
+
+# id = 9cabe0bceea876bf327161df2c22131c
+unstable	B-clinical_findings
+angina	I-clinical_findings
+
+# id = 3a5bb5d38f43afae951c53b873f90ad7
+chronic	B-clinical_findings
+pulpitis	I-clinical_findings
+
+# id = d0041cac6f9c404cf33888cac70a587a
+Pharmed	B-clinical_findings
+limited	I-clinical_findings
+
+# id = cacc3d26562ce4a4e64b2043d8d2db95
+phenytoin	B-clinical_findings
+
+# id = 0f2510c8ab78b330a133e559746a4878
+centchroman	B-drugs
+
+# id = 7c81a00ff485500b0838f3205b5b9c91
+allergic	B-clinical_findings
+bronchospasm	I-clinical_findings
+
+# id = 0a15a1d73ceaf497e786070495a7b0d4
+Neugaba	B-drugs
+M	I-drugs
+75	I-drugs
+Capsule	I-drugs
+
+# id = 575b86bb5edba0d8541d3ae5535b018f
+rabeprazole	B-drugs
+
+# id = 83e8b2f4d21a2ee775c47d134bb40040
+necrotic	B-clinical_findings
+patch	I-clinical_findings
+with	I-clinical_findings
+ulcer	I-clinical_findings
+right	I-clinical_findings
+sole	I-clinical_findings
+
+# id = 1a3b8394aaf83a37670396dc292b0bb0
+fungal	B-clinical_findings
+infection	I-clinical_findings
+
+# id = f411b08751a5bf535ee5332cd75851b3
+acute	B-clinical_findings
+bronchitis	I-clinical_findings
+
+# id = 2ba915a8432bceb502a020ca932f452b
+pain	B-clinical_findings
+in	I-clinical_findings
+throat	I-clinical_findings
+
+# id = 724bf7c7bd5cbf601c39f3989b73b680
+Ciprotab	B-drugs
+250Mg	I-drugs
+Tablet	I-drugs
+
+# id = dc3ff0dcc029fcc59fbffeed62325b1a
+Alkasol	B-drugs
+1	I-drugs
+.	I-drugs
+4gm	I-drugs
+per	I-drugs
+5ml	I-drugs
+
+# id = d6c10ccc631910c473536843d570f800
+chronic	B-clinical_findings
+primary	I-clinical_findings
+headache	I-clinical_findings
+
+# id = ed66ae7bd283941d1901539d0841158e
+previosly	B-clinical_findings
+presented	I-clinical_findings
+with	I-clinical_findings
+scabies	I-clinical_findings
+with	I-clinical_findings
+pupp	I-clinical_findings
+
+# id = f7aa6ca67db54bb21af574896177e0c3
+Moxovas	B-drugs
+0	I-drugs
+.	I-drugs
+2	I-drugs
+Tablet	I-drugs
+
+# id = 19bae126948c8e45adf7e15e3cfdbc07
+Recofast	B-drugs
+Plus	I-drugs
+Tablet	I-drugs
+
+# id = 678e150a59166a235d67d7cd02c5f591
+avoid	B-clinical_findings
+swimming	I-clinical_findings
+
+# id = 69bfab61ec0bec42d3c1dcfa7a797e3d
+Sertagress	B-diagnostics
+50Mg	I-diagnostics
+Tablet	I-diagnostics
+
+# id = 0d2904698b1d2e1072e32d7d948dc857
+plenty	B-advices
+of	I-advices
+lassi	I-advices
+in	I-advices
+diet	I-advices
+
+# id = d8fb0f7892988a06e837f6dbe819c9d3
+Drotin	B-drugs
+Ds	I-drugs
+80mg	I-drugs
+Tablet	I-drugs
+
+# id = 13e961eca56d1db851e5f7db7abe0d94
+polyarthritis	B-clinical_findings
+for	I-clinical_findings
+investigations	I-clinical_findings
+
+# id = af08150774f7e96ff5ad1d04b8995e7d
+ankle	B-advices
+exercises	I-advices
+
+# id = 34d051cf070cebc94237b4726f7a3e0b
+Alfoo	B-drugs
+10Mg	I-drugs
+
+# id = 8d6b77fc844c3d20d0c760ec12e2815a
+viral	B-clinical_findings
+pneumonia	I-clinical_findings
+
+# id = 06fa573e6d794b2d3fd190227d112996
+Felicita	B-drugs
+Od	I-drugs
+Capsule	I-drugs
+
+# id = 637f09053030375b41c606913fc2b4f9
+laryngopharyngeal	B-clinical_findings
+reflux	I-clinical_findings
+
+# id = 2462982c032e114029975a9569fbda31
+pain	B-clinical_findings
+in	I-clinical_findings
+extremeties	I-clinical_findings
+
+# id = 3db09a644fc19bc40168484a6f7cd062
+pain	B-clinical_findings
+radiating	I-clinical_findings
+to	I-clinical_findings
+left	I-clinical_findings
+leg	I-clinical_findings
+
+# id = 6185b3d20b2efc162d11091e2164c31a
+rwma	B-drugs
+of	I-drugs
+lad	I-drugs
+territory	I-drugs
+moderate	I-drugs
+lv	I-drugs
+systolic	I-drugs
+dysfunction	I-drugs
+mild	I-drugs
+to	I-drugs
+moderate	I-drugs
+mr	I-drugs
+tr	I-drugs
+mild	I-drugs
+pah	I-drugs
+
+# id = 5262b7395d2b1746d3d404f43343f016
+quinine	B-drugs
+
+# id = 2e6b907f4304724bbd3e812055741066
+Zuventus	B-drugs
+Healthcare	I-drugs
+Limited	I-drugs
+
+# id = be6cb50e25cf0ddb15404f108ba29680
+hepatitis	B-drugs
+
+# id = c0f1b5263b66fd9d7a7458f46a9b85a9
+moles	B-clinical_findings
+on	I-clinical_findings
+the	I-clinical_findings
+face	I-clinical_findings
+
+# id = f85c335f00246a03db44378d3fc03ae9
+avoid	B-advices
+soya	I-advices
+
+# id = 03ca8b7b69478b29aac23a62f2a6a825
+Lizolid	B-clinical_findings
+600	I-clinical_findings
+Tablet	I-clinical_findings
+
+# id = c8f57c373fa79b6a9f7ca03e4987278b
+Lubrijoint	B-drugs
+Od	I-drugs
+1500mg	I-drugs
+Tablet	I-drugs
+
+# id = 78b2c6546fcf181b0a67b54ab83647ec
+Mupirotic	B-drugs
+2	I-drugs
+%	I-drugs
+Ointment	I-drugs
+
+# id = 45237cf316f16a5de169f296dac8896d
+prurigo	B-clinical_findings
+
+# id = f7da01d6996e37bb70d870a5dbdef162
+PHYSIOTHERAPY	B-advices
+
+# id = 264da7219f00ebe29f40e3040895218a
+no	B-clinical_findings
+vomiting	I-clinical_findings
+
+# id = 55a2a342a2d6368c2be790d9ec522239
+Hycibex	B-drugs
+Tablet	I-drugs
+
+# id = e392d10120be6fa8ce8efbeca52fb641
+pain	B-clinical_findings
+in	I-clinical_findings
+abdomen	I-clinical_findings
+n	I-clinical_findings
+back	I-clinical_findings
+
+# id = 25bfd3a93d24a413ba8ce9ad83d43717
+under	B-clinical_findings
+home	I-clinical_findings
+isolation	I-clinical_findings
+
+# id = a0ead68c4275fb0e5b4373be7d794e88
+height	B-clinical_findings
+
+# id = 374fb3610a79f833ccdab881d620e333
+Aztor	B-drugs
+Aspirin	I-drugs
+75	I-drugs
+Capsule	I-drugs
+
+# id = d72adf55ee8221dd5c0d837591913342
+Sompraz	B-drugs
+20	I-drugs
+Tablet	I-drugs
+
+# id = 21504d70ed31fcc23413ed3db57aabec
+hypertension	B-clinical_findings
+follow	I-clinical_findings
+up	I-clinical_findings
+default	I-clinical_findings
+
+# id = a721833f9c5a3597803d5c5e9f1d8591
+type	B-clinical_findings
+2	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+hypertension	I-clinical_findings
+coronary	I-clinical_findings
+artery	I-clinical_findings
+disease	I-clinical_findings
+
+# id = 8d489f060537a609bace0da6668af8db
+Signoflam	B-drugs
+Th	I-drugs
+4	I-drugs
+Tablet	I-drugs
+
+# id = ab297719c88e5905b6314b422a3f5855
+Teczine	B-drugs
+5mg	I-drugs
+Tablet	I-drugs
+
+# id = fe676997b2dc1da4e2b6da06c1ca97d9
+linezolid	B-drugs
+
+# id = 457ec2e02960fce3719da318efe8113c
+Dexorange	B-drugs
+Syrup	I-drugs
+
+# id = db2d096556567859f2a396be7f3e5df3
+hydroxyquinolines	B-drugs
+
+# id = d09c851b0b0d31778828b6739adb09dc
+Adequate	B-advices
+nutrition	I-advices
+
+# id = cd471c8c842796d76025b8b31106c8d1
+octreotide	B-drugs
+acetate	I-drugs
+
+# id = 9c2453cfc028a564fb3c81d09527c96a
+Cilacar	B-drugs
+10	I-drugs
+Tablet	I-drugs
+
+# id = 1b401320c29ead0604649ce565345690
+Right	B-clinical_findings
+foot	I-clinical_findings
+injury	I-clinical_findings
+
+# id = 4fb4a2a51f660c58b2d78e0589a55b9b
+Microbact	B-drugs
+500	I-drugs
+Tablet	I-drugs
+
+# id = 2abf0880cb4bf655c27b1b86f4bc93ee
+cluster	B-clinical_findings
+headache	I-clinical_findings
+
+# id = 9132a12bae1a3a28da07d2ac962364a8
+Lactihep	B-drugs
+66	I-drugs
+.	I-drugs
+67	I-drugs
+%	I-drugs
+weight	I-drugs
+by	I-drugs
+volume	I-drugs
+
+# id = e1e7e3a7fa48557519f72fac95428f9f
+pain	B-clinical_findings
+in	I-clinical_findings
+shoulder	I-clinical_findings
+
+# id = e4bf1261cc69323f49b8a50046a2904c
+Glimy	B-drugs
+M	I-drugs
+1	I-drugs
+
+# id = 5d4beea0cd634db4161018cfec416bca
+post	B-clinical_findings
+spinal	I-clinical_findings
+anesthesia	I-clinical_findings
+right	I-clinical_findings
+lower	I-clinical_findings
+limb	I-clinical_findings
+radiculopathy	I-clinical_findings
+
+# id = bd45c925c1ddc3791828304f75db01d7
+Powergesic	B-drugs
+Gel	I-drugs
+
+# id = 1ea60872e6dd834a428a92c00e64989e
+painful	B-clinical_findings
+rectal	I-clinical_findings
+bleeding	I-clinical_findings
+
+# id = b578d96fe2e50bad3645a895719b655b
+Saaz	B-drugs
+500mg	I-drugs
+Tablet	I-drugs
+
+# id = 9030406737eb06e23356b3f108aeb807
+Do	B-advices
+not	I-advices
+lie	I-advices
+on	I-advices
+the	I-advices
+bed	I-advices
+immediately	I-advices
+after	I-advices
+having	I-advices
+Meals	I-advices
+
+# id = 3d515818ba52d138585970f54f26195c
+no	B-advices
+history	I-advices
+of	I-advices
+cough	I-advices
+breathlesness	I-advices
+mild	I-advices
+doe	I-advices
+question	I-advices
+mark	I-advices
+
+# id = 34302e6b73bddb99a0b4fa4d39443156
+Kmc	B-advices
+counselling	I-advices
+done	I-advices
+
+# id = 73c03de85a857403741c73b3fe12646c
+Query	B-drugs
+tetany	I-drugs
+
+# id = 2d8293877f5f3b1fa39aca5296e092a2
+review	B-drugs
+with	I-drugs
+report	I-drugs
+
+# id = e0d0d8758124cca87dae662457a68a75
+ankle	B-drugs
+exercise	I-drugs
+
+# id = 6907038f23118b28f0af8c19f522684c
+walk	B-advices
+daily	I-advices
+
+# id = 936db5feebe51167a4e0ee0995a08169
+cholecystitis	B-clinical_findings
+
+# id = 2b33fc14525d26f141904c78980b8ce6
+phimosis	B-clinical_findings
+
+# id = f2818abb82fc0f475beba8b016f1a6dc
+disseminated	B-clinical_findings
+tb	I-clinical_findings
+
+# id = 35b5e3c9ff88b11ad8a676ef84569e73
+Gabaneuron	B-drugs
+100	I-drugs
+Tablet	I-drugs
+
+# id = e8f7cc530a1b84ded866bfcdb3ec6beb
+dry	B-clinical_findings
+eyes	I-clinical_findings
+
+# id = a0697cbe6d97e8bed1a2b3bfb9a73524
+Glinil	B-drugs
+M	I-drugs
+5mg	I-drugs
+bar	I-drugs
+500mg	I-drugs
+Tablet	I-drugs
+
+# id = 1230e6909f94610e406848ac3e9ba6c1
+Levopower	B-drugs
+5	I-drugs
+Tablet	I-drugs
+
+# id = e619e326f731a60ff1583edcadef7ac6
+post	B-clinical_findings
+perianal	I-clinical_findings
+abcess	I-clinical_findings
+
+# id = 0ac490baafb7dd718d3c38646df7ccac
+Tusq	B-drugs
+qD	I-drugs
+Cough	I-drugs
+Orange	I-drugs
+0	I-drugs
+.	I-drugs
+6mg	I-drugs
+by	I-drugs
+5mg	I-drugs
+Lozenges	I-drugs
+
+# id = e01159080373e9be6c20e8ed253b1e89
+Rosycap	B-drugs
+Gold	I-drugs
+10	I-drugs
+by	I-drugs
+75	I-drugs
+Capsule	I-drugs
+
+# id = 775f50da850ae218b88b8e9f93c8aee1
+Myotop	B-drugs
+P	I-drugs
+150mg	I-drugs
+by	I-drugs
+325mg	I-drugs
+Tablet	I-drugs
+
+# id = 0b8826ea0f0802b7d21adf8cf84b4528
+watery	B-clinical_findings
+stool	I-clinical_findings
+
+# id = 656521a3cfa6fd32ae899733752816fd
+Glowderma	B-drugs
+Labs	I-drugs
+Private	I-drugs
+Limited	I-drugs
+
+# id = 14b49bd2542bfa56271de8721402fa50
+ppbs	B-diagnostics
+
+# id = 2a849388567492652f6e4281ec1968aa
+Libotryp	B-drugs
+12	I-drugs
+.	I-drugs
+5	I-drugs
+Mg	I-drugs
+per	I-drugs
+5	I-drugs
+Mg	I-drugs
+Tablet	I-drugs
+
+# id = f2dd14965ab96f9e55a0b263652b44e7
+Zolfresh	B-drugs
+5	I-drugs
+Tablet	I-drugs
+
+# id = 4696c879b74ca44b9dbe731b58f3ce17
+Sucral	B-drugs
+O	I-drugs
+1000mg	I-drugs
+by	I-drugs
+10mg	I-drugs
+
+# id = d49df5d290842a6ac500420ae67cc7cf
+renal	B-clinical_findings
+allograft	I-clinical_findings
+recipient	I-clinical_findings
+deceased	I-clinical_findings
+donor	I-clinical_findings
+
+# id = cff55933aefb2dc4147d668c247b1e56
+Migrabeta	B-drugs
+Plus	I-drugs
+40mg	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+
+# id = 970915336ab80f5363372730f3bf483d
+Telpres	B-drugs
+Ct	I-drugs
+40	I-drugs
+bar	I-drugs
+6	I-drugs
+.	I-drugs
+25	I-drugs
+Tablet	I-drugs
+
+# id = 6a7bc49fc27dfbbd4038545dfd3e5392
+mild	B-clinical_findings
+effusion	I-clinical_findings
+present	I-clinical_findings
+
+# id = cd4082020490894cff5aff95b998c8f9
+15	B-clinical_findings
+
+# id = 26547787f3426be7e231ca0e128d843c
+Mega	B-drugs
+Flexon	I-drugs
+325	I-drugs
+by	I-drugs
+37	I-drugs
+.	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+
+# id = a651edfdccbf557e6fb90a5ea77dbcef
+skip	B-advices
+travelling	I-advices
+
+# id = 912294d446102e88345ad6c504ad5347
+insect	B-clinical_findings
+bite	I-clinical_findings
+reaction	I-clinical_findings
+
+# id = 02bbe1c6e963c97f8bf73342e935f0a2
+Synaps	B-drugs
+Nt	I-drugs
+Tablet	I-drugs
+
+# id = 374f2ae5343559977db43b85ce98ff9f
+No	B-advices
+outside	I-advices
+food	I-advices
+
+# id = 5c5a7afb3fad60e09e912ecdefe54622
+Levocet	B-drugs
+5Mg	I-drugs
+Tablet	I-drugs
+
+# id = 2017b2f9f1489cc08f214f99d751070a
+Nurokind	B-drugs
+Od	I-drugs
+Tablet	I-drugs
+
+# id = dc104899f064711c74a44813565f1114
+upper	B-drugs
+respiratory	I-drugs
+tract	I-drugs
+infection	I-drugs
+
+# id = 483365bd3df167b2a0c0513afc086ab0
+post	B-clinical_findings
+herpes	I-clinical_findings
+neuralgia	I-clinical_findings
+
+# id = 525de4d2dded6aa198358da8e9d2e7ca
+slurring	B-clinical_findings
+
+# id = 8aba5b7e1be8bb0d0aab94b22928c317
+no	B-clinical_findings
+nausea	I-clinical_findings
+
+# id = 068fa49e3bb899e86dac6ddb687ced3a
+strontium	B-drugs
+chloride	I-drugs
+
+# id = 6895625397a2f949df3cdf184438ce47
+flatulence	B-clinical_findings
+eructation	I-clinical_findings
+and	I-clinical_findings
+gas	I-clinical_findings
+pain	I-clinical_findings
+
+# id = 440662e1b696e124da31a343d52637a9
+Neogadine	B-drugs
+Elixir	I-drugs
+
+# id = 3c03898749664c0dd81fc4d7b59eb1aa
+prulifloxacin	B-drugs
+
+# id = 03cb9c42d3f7d985d32210aed5c227fb
+Hygiene	B-advices
+
+# id = 5ba44cf0fd555af1e205bcfdfcd9dce3
+treosulfan	B-drugs
+
+# id = 695e8905f2a762322f0ac101a43442bf
+otitis	B-clinical_findings
+media	I-clinical_findings
+right	I-clinical_findings
+ear	I-clinical_findings
+
+# id = bfb9a0158fbee2c7dbf05137374641ea
+Propysalic	B-drugs
+Nf6	I-drugs
+0	I-drugs
+.	I-drugs
+05	I-drugs
+%	I-drugs
+weight	I-drugs
+by	I-drugs
+weight	I-drugs
+6	I-drugs
+%	I-drugs
+weight	I-drugs
+by	I-drugs
+weight	I-drugs
+
+# id = cc89d1b334088824a97ec8bacc3ae5fa
+anxiety	B-clinical_findings
+hyperventilation	I-clinical_findings
+
+# id = d8b29f6e1fbd231e97c70ef6c5df2090
+After	O
+thorough	O
+examination	O
+of	O
+the	O
+patient	O
+,	O
+the	O
+dentist	O
+diagnosed	O
+it	O
+as	O
+chronic	B-clinical_findings
+periodontitis	I-clinical_findings
+and	O
+pulpitis	B-clinical_findings
+of	O
+the	O
+left	B-misc_medical
+upper	I-misc_medical
+second	I-misc_medical
+incisor	I-misc_medical
+.	O
+The	O
+dentist	O
+advised	O
+her	O
+oral	B-advices
+hygiene	I-advices
+and	O
+extraction	B-misc_medical
+at	O
+a	O
+later	O
+date	O
+.	O
+
+# id = 6c6e629c2efc3e085c4b83a18d5a0838
+RBC	B-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+AST	B-diagnostics
+SGOT	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+4237	B-diagnostics
+.	I-diagnostics
+0	I-diagnostics
+U	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+Transferin	B-diagnostics
+Saturation	I-diagnostics
+Calculated	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+30	B-diagnostics
+.	I-diagnostics
+31	I-diagnostics
+%	I-diagnostics
+
+# id = 52b8332a489ee37ea0d8ea654caa1a14
+Clinical	O
+examination	O
+revealed	O
+upper	B-clinical_findings
+limb	I-clinical_findings
+hypertension	I-clinical_findings
+,	O
+with	O
+similar	O
+blood	B-diagnostics
+pressures	I-diagnostics
+in	O
+both	O
+arms	O
+180	B-diagnostics
+/	I-diagnostics
+100	I-diagnostics
+mm	I-diagnostics
+Hg	I-diagnostics
+.	O
+His	O
+past	O
+history	O
+included	O
+repair	O
+of	O
+coarctation	B-clinical_findings
+of	I-clinical_findings
+aorta	I-clinical_findings
+about	O
+30	O
+years	O
+ago	O
+.	O
+
+# id = 97f020dc530d16876bc6e990448a62c5
+CT	B-diagnostics
+abdomen	I-diagnostics
+/	I-diagnostics
+pelvis	I-diagnostics
+with	I-diagnostics
+contrast	I-diagnostics
+obtained	O
+for	O
+evaluation	O
+of	O
+hypercortisolism	B-clinical_findings
+.	O
+Note	O
+the	O
+presence	O
+of	O
+new	O
+low	B-clinical_findings
+-	I-clinical_findings
+density	I-clinical_findings
+liver	I-clinical_findings
+lesions	I-clinical_findings
+not	O
+seen	O
+3	O
+months	O
+prior	O
+,	O
+consistent	O
+with	O
+metastases	B-clinical_findings
+.	O
+Also	O
+,	O
+new	O
+bilateral	B-clinical_findings
+adrenal	I-clinical_findings
+hyperplasia	I-clinical_findings
+.	O
+
+# id = 25ed8071867130d8228c121d864eda1a
+Almox	B-drugs
+250	I-drugs
+Capsule	I-drugs
+is	O
+a	O
+penicillin	B-drugs
+-	O
+type	O
+of	O
+antibiotic	B-drugs
+used	O
+to	O
+treat	O
+a	O
+variety	O
+of	O
+bacterial	B-clinical_findings
+infections	I-clinical_findings
+.	O
+It	O
+is	O
+effective	O
+in	O
+infections	B-clinical_findings
+of	O
+the	O
+throat	B-misc_medical
+,	O
+ear	B-misc_medical
+,	O
+nasal	B-misc_medical
+sinuses	I-misc_medical
+,	O
+respiratory	B-misc_medical
+tract	I-misc_medical
+e	O
+.	O
+g	O
+.	O
+,	O
+pneumonia	B-clinical_findings
+,	O
+urinary	B-misc_medical
+tract	I-misc_medical
+,	O
+skin	B-misc_medical
+and	I-misc_medical
+soft	I-misc_medical
+tissue	I-misc_medical
+,	O
+and	O
+typhoid	B-clinical_findings
+fever	I-clinical_findings
+.	O
+
+# id = f05244bb8867b88402c2b1dff715bdf4
+Leecast	B-drugs
+M	I-drugs
+5mg	I-drugs
+/	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+allergic	B-clinical_findings
+symptoms	I-clinical_findings
+such	O
+as	O
+runny	B-clinical_findings
+nose	I-clinical_findings
+,	O
+stuffy	B-clinical_findings
+nose	I-clinical_findings
+,	O
+sneezing	B-clinical_findings
+,	O
+itching	B-clinical_findings
+,	O
+swelling	B-clinical_findings
+,	O
+watery	B-clinical_findings
+eyes	I-clinical_findings
+and	O
+congestion	B-clinical_findings
+or	O
+stuffiness	B-clinical_findings
+.	O
+
+# id = eaf88a02a76b9060850dc33e4a2d089f
+P	O
+.	O
+P	O
+.	O
+BLOOD	B-diagnostics
+SUGAR	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+227	B-diagnostics
+.	I-diagnostics
+34	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+Total	B-diagnostics
+Protein	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+6	B-diagnostics
+.	I-diagnostics
+6	I-diagnostics
+g	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+URINE	B-diagnostics
+COLOUR	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+
+# id = 7b61c52e8a6845f5f8aec2442578ff8f
+Chest	B-diagnostics
+x	I-diagnostics
+-	I-diagnostics
+ray	I-diagnostics
+showed	O
+migration	O
+of	O
+a	O
+bent	O
+Kirschner	B-misc_medical
+wire	I-misc_medical
+from	O
+the	O
+right	B-clinical_findings
+clavicle	I-clinical_findings
+.	O
+It	O
+was	O
+9cm	B-misc_medical
+in	O
+length	O
+,	O
+with	O
+its	O
+tip	O
+in	O
+the	O
+mediastinal	B-clinical_findings
+shadow	I-clinical_findings
+black	O
+arrow	O
+.	O
+
+# id = 29538e45210a40b9df77cdf0e5ed387c
+UREA	B-diagnostics
+/	I-diagnostics
+CREATININE	I-diagnostics
+RATIO	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+44	O
+.	O
+45	O
+ratio	O
+Unsaturated	B-diagnostics
+Iron	I-diagnostics
+Binding	I-diagnostics
+Capacity	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+292	O
+.	O
+0	O
+ug	O
+/	O
+dL	O
+Salmonella	B-diagnostics
+typhi	I-diagnostics
+H	I-diagnostics
+TH	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+
+# id = 0b34875ee0c1847aedb9dfca747364aa
+Ethambutol	B-drugs
+is	O
+an	O
+antibacterial	B-drugs
+agent	I-drugs
+,	O
+prescribed	O
+for	O
+tuberculosis	B-clinical_findings
+TB	B-clinical_findings
+.	O
+Ethambutol	B-drugs
+stops	O
+the	O
+growth	O
+of	O
+TB	B-clinical_findings
+cells	O
+.	O
+When	O
+should	O
+Ethambutol	B-drugs
+not	O
+to	O
+be	O
+taken	O
+Contraindicated	O
+in	O
+patients	O
+with	O
+known	O
+optic	B-clinical_findings
+neuritis	I-clinical_findings
+optic	B-clinical_findings
+nerve	I-clinical_findings
+inflammation	I-clinical_findings
+and	O
+hypersensitivity	B-clinical_findings
+.	O
+
+# id = 6d135416040961d1af37075080643dab
+He	O
+referred	O
+that	O
+,	O
+one	O
+week	O
+earlier	O
+,	O
+he	O
+experienced	O
+an	O
+episode	O
+of	O
+macroematuria	B-clinical_findings
+with	O
+no	O
+fever	B-clinical_findings
+and	O
+regular	O
+bowel	B-clinical_findings
+function	I-clinical_findings
+.	O
+He	O
+was	O
+sent	O
+to	O
+Urological	B-misc_medical
+Department	I-misc_medical
+for	O
+a	O
+consultation	O
+.	O
+
+# id = 0e19e43bcdcccb3708a9aa81a4230334
+The	O
+image	O
+showed	O
+the	O
+oval	B-misc_medical
+foramen	I-misc_medical
+,	O
+located	O
+at	O
+the	O
+upper	O
+third	O
+of	O
+the	O
+mandibular	B-misc_medical
+ramus	I-misc_medical
+,	O
+inside	O
+of	O
+the	O
+condyle	B-misc_medical
+,	O
+penetrating	O
+the	O
+ophthalmic	B-misc_medical
+branch	I-misc_medical
+of	O
+the	O
+trigeminal	B-misc_medical
+ganglion	I-misc_medical
+toward	O
+the	O
+medial	O
+corner	O
+of	O
+the	O
+oval	B-misc_medical
+foramen	I-misc_medical
+arrow	O
+.	O
+
+# id = 74dfc21ebceeb3287aeccfc58c76a72d
+Display	O
+of	O
+end	B-diagnostics
+-	I-diagnostics
+systolic	I-diagnostics
+image	O
+from	O
+apical	B-diagnostics
+4	I-diagnostics
+-	I-diagnostics
+chamber	I-diagnostics
+view	I-diagnostics
+after	O
+six	O
+month	O
+of	O
+treatment	O
+with	O
+pioglitazone	B-drugs
+.	O
+The	O
+white	O
+,	O
+thicker	O
+,	O
+arrow	O
+indicates	O
+the	O
+newly	O
+developed	O
+moderate	O
+mitral	B-clinical_findings
+regurgitation	I-clinical_findings
+.	O
+
+# id = d9c57138521df2a743f558dff265d47f
+Ivercid	B-drugs
+3mg	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+antiparasitic	B-misc_medical
+medication	O
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+parasitic	B-clinical_findings
+infections	I-clinical_findings
+of	O
+your	O
+intestinal	B-misc_medical
+tract	I-misc_medical
+,	O
+skin	B-misc_medical
+,	O
+and	O
+eyes	B-misc_medical
+.	O
+Your	O
+doctor	O
+will	O
+explain	O
+how	O
+to	O
+take	O
+Ivercid	B-drugs
+3mg	I-drugs
+Tablet	I-drugs
+and	O
+how	O
+much	O
+you	O
+need	O
+.	O
+
+# id = 2899ece135baf6ef88e3bd22a36e1a39
+Feminizing	B-misc_medical
+surgery	I-misc_medical
+,	O
+also	O
+called	O
+gender	B-misc_medical
+-	I-misc_medical
+affirming	I-misc_medical
+surgery	I-misc_medical
+or	O
+gender	B-misc_medical
+-	I-misc_medical
+confirmation	I-misc_medical
+surgery	I-misc_medical
+,	O
+involves	O
+procedures	O
+that	O
+help	O
+better	O
+align	O
+the	O
+body	O
+with	O
+a	O
+person	O
+'	O
+s	O
+gender	O
+identity	O
+.	O
+Feminizing	B-misc_medical
+surgery	I-misc_medical
+includes	O
+several	O
+options	O
+,	O
+such	O
+as	O
+top	B-misc_medical
+surgery	I-misc_medical
+to	O
+increase	O
+the	O
+size	O
+of	O
+the	O
+breasts	O
+.	O
+
+# id = ba25f4970e874caaef7fe7fdb6b97c1c
+Abdominal	B-diagnostics
+MRI	I-diagnostics
+was	O
+conducted	O
+to	O
+identify	O
+a	O
+solid	B-clinical_findings
+mass	I-clinical_findings
+with	O
+an	O
+irregular	B-clinical_findings
+lobulated	I-clinical_findings
+configuration	I-clinical_findings
+located	O
+in	O
+the	O
+right	B-clinical_findings
+upper	I-clinical_findings
+quadrant	I-clinical_findings
+with	O
+a	O
+diameter	B-clinical_findings
+of	I-clinical_findings
+20	I-clinical_findings
+cm	I-clinical_findings
+.	O
+Figure	O
+.	O
+Biopsy	B-diagnostics
+and	O
+pathology	B-diagnostics
+examinations	I-diagnostics
+came	O
+to	O
+no	O
+conclusion	O
+.	O
+
+# id = ee486d527132079b4e00bccb1cd0df08
+Rosuvel	B-drugs
+5mg	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+statins	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+lower	O
+cholesterol	B-clinical_findings
+and	O
+to	O
+reduce	O
+the	O
+risk	O
+of	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = b789d2f1654fb269b8bb043127045d2c
+The	O
+cough	B-clinical_findings
+was	O
+dry	B-clinical_findings
+,	O
+not	O
+related	O
+to	O
+position	O
+,	O
+and	O
+not	O
+associated	O
+with	O
+chest	B-clinical_findings
+pain	I-clinical_findings
+or	O
+hemoptysis	B-clinical_findings
+.	O
+The	O
+cough	B-clinical_findings
+had	O
+episodes	B-clinical_findings
+of	I-clinical_findings
+exacerbation	I-clinical_findings
+that	O
+subsided	O
+after	O
+some	O
+time	O
+without	O
+treatment	O
+.	O
+He	O
+gave	O
+no	O
+history	O
+of	O
+fever	B-clinical_findings
+or	O
+any	O
+other	O
+significant	O
+symptom	O
+.	O
+
+# id = 2cc1562230975172f6db35f2aaffb301
+The	O
+patient	O
+'	O
+s	O
+presentation	O
+was	O
+acute	O
+,	O
+accompanied	O
+by	O
+nausea	B-clinical_findings
+,	O
+chills	B-clinical_findings
+,	O
+and	O
+cold	B-clinical_findings
+sweating	I-clinical_findings
+.	O
+The	O
+patient	O
+appeared	O
+pale	B-clinical_findings
+,	O
+and	O
+while	O
+her	O
+mental	B-clinical_findings
+status	I-clinical_findings
+was	O
+alert	B-clinical_findings
+,	O
+systolic	B-diagnostics
+blood	I-diagnostics
+pressure	I-diagnostics
+was	O
+60	B-diagnostics
+mmHg	I-diagnostics
+,	O
+and	O
+diastolic	B-diagnostics
+blood	I-diagnostics
+pressure	I-diagnostics
+was	O
+40	B-diagnostics
+mmHg	I-diagnostics
+.	O
+
+# id = 13044e00f3dab0038f6be042bb54c289
+Weight	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+70	B-diagnostics
+.	I-diagnostics
+0	I-diagnostics
+kg	I-diagnostics
+Neutrophils	B-diagnostics
+Percentage	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+62	B-diagnostics
+.	I-diagnostics
+3	I-diagnostics
+%	I-diagnostics
+Prothrombin	B-diagnostics
+Time	I-diagnostics
+PT	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+11	B-diagnostics
+.	I-diagnostics
+5	I-diagnostics
+s	I-diagnostics
+
+# id = 6fd023599d9ef375e03fda1a65eb310e
+Patient	O
+has	O
+a	O
+standing	B-clinical_findings
+job	I-clinical_findings
+,	O
+which	O
+they	O
+have	O
+maintained	O
+for	O
+the	O
+past	O
+2	O
+years	O
+,	O
+allowing	O
+for	O
+increased	O
+physical	B-advices
+activity	I-advices
+and	O
+improved	O
+cardiovascular	B-clinical_findings
+health	I-clinical_findings
+.	O
+They	O
+stand	O
+for	O
+1	O
+to	O
+2	O
+hours	O
+per	O
+day	O
+,	O
+promoting	O
+better	O
+posture	B-clinical_findings
+and	O
+muscle	B-clinical_findings
+tone	I-clinical_findings
+.	O
+
+# id = caece4432a4ec3223b489a90cfdd96cb
+Brufen	B-drugs
+600	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+pain	O
+relieving	O
+medicine	O
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+many	O
+conditions	O
+such	O
+as	O
+headache	B-clinical_findings
+,	O
+fever	B-clinical_findings
+,	O
+period	B-clinical_findings
+pain	I-clinical_findings
+,	O
+toothache	B-clinical_findings
+,	O
+colds	B-clinical_findings
+,	O
+and	O
+mild	B-clinical_findings
+arthritis	I-clinical_findings
+.	O
+It	O
+is	O
+also	O
+a	O
+common	O
+ingredient	O
+in	O
+many	O
+cold	B-clinical_findings
+and	I-clinical_findings
+flu	I-clinical_findings
+remedies	O
+.	O
+
+# id = a19142443c45f47423413e514495150f
+Reactin	B-drugs
+50	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+pain	B-clinical_findings
+-	O
+relieving	O
+medicine	O
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+pain	B-clinical_findings
+,	O
+swelling	B-clinical_findings
+,	O
+stiffness	B-clinical_findings
+,	O
+and	O
+joint	B-clinical_findings
+pain	I-clinical_findings
+in	O
+conditions	O
+like	O
+rheumatoid	B-clinical_findings
+arthritis	I-clinical_findings
+,	O
+osteoarthritis	B-clinical_findings
+,	O
+and	O
+acute	B-clinical_findings
+musculoskeletal	I-clinical_findings
+injuries	I-clinical_findings
+.	O
+
+# id = 4365c40739101c517030a4afb7f114a4
+Valzaar	B-drugs
+40	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+and	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+.	O
+Lowering	O
+blood	B-clinical_findings
+pressure	I-clinical_findings
+helps	O
+to	O
+prevent	O
+future	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+and	O
+stroke	B-clinical_findings
+.	O
+This	O
+medicine	O
+is	O
+also	O
+effective	O
+in	O
+preserving	O
+kidney	B-clinical_findings
+function	I-clinical_findings
+in	O
+patients	O
+with	O
+diabetes	B-clinical_findings
+.	O
+
+# id = 5d65a7d63f547794a9ea58648ba405a0
+Brivetoin	B-drugs
+75mg	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+anti	B-drugs
+-	I-drugs
+epileptic	I-drugs
+medicine	O
+used	O
+to	O
+treat	O
+seizures	B-clinical_findings
+fits	B-clinical_findings
+in	O
+epilepsy	B-clinical_findings
+.	O
+It	O
+can	O
+be	O
+used	O
+alone	O
+or	O
+along	O
+with	O
+other	O
+medicines	O
+.	O
+It	O
+helps	O
+to	O
+prevent	O
+seizures	B-clinical_findings
+for	O
+as	O
+long	O
+as	O
+you	O
+continue	O
+to	O
+take	O
+it	O
+.	O
+
+# id = 74553a084af44a64537d352ba284edfd
+Total	B-diagnostics
+Leucocytes	I-diagnostics
+WBC	I-diagnostics
+Count	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+5340	B-clinical_findings
+.	I-clinical_findings
+0	I-clinical_findings
+10	I-clinical_findings
+*	I-clinical_findings
+3	I-clinical_findings
+/	I-clinical_findings
+mm3	I-clinical_findings
+Red	B-diagnostics
+blood	I-diagnostics
+cell	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+LDL	B-diagnostics
+-	I-diagnostics
+Cholesterol	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+97	B-clinical_findings
+.	I-clinical_findings
+6	I-clinical_findings
+mg	I-clinical_findings
+/	I-clinical_findings
+dL	I-clinical_findings
+
+# id = f519542ca63b21dd710815e6f30f8d7a
+Ambrican	B-drugs
+5	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+pulmonary	B-clinical_findings
+arterial	I-clinical_findings
+hypertension	I-clinical_findings
+high	B-clinical_findings
+pressure	I-clinical_findings
+in	I-clinical_findings
+the	I-clinical_findings
+blood	I-clinical_findings
+vessels	I-clinical_findings
+that	O
+carry	O
+blood	O
+from	O
+the	O
+heart	O
+to	O
+the	O
+lungs	O
+.	O
+
+# id = 789d133e6151265585b6d9949839a24e
+The	O
+patient	O
+has	O
+a	O
+known	O
+penicillin	B-clinical_findings
+allergy	I-clinical_findings
+since	O
+childhood	O
+,	O
+presenting	O
+with	O
+anaphylaxis	B-clinical_findings
+.	O
+Additionally	O
+,	O
+a	O
+drug	B-clinical_findings
+allergy	I-clinical_findings
+with	O
+a	O
+history	O
+of	O
+rash	B-clinical_findings
+and	O
+respiratory	B-clinical_findings
+distress	I-clinical_findings
+,	O
+and	O
+a	O
+pollen	B-clinical_findings
+allergy	I-clinical_findings
+with	O
+seasonal	B-clinical_findings
+rhinitis	I-clinical_findings
+and	O
+conjunctivitis	B-clinical_findings
+.	O
+
+# id = 27a44cfc2ed2ff848dd1ea5a0c41244a
+There	O
+was	O
+no	O
+associated	O
+pain	B-clinical_findings
+or	O
+history	O
+of	O
+trauma	B-clinical_findings
+prior	O
+to	O
+appearance	O
+of	O
+the	O
+swelling	B-clinical_findings
+.	O
+On	O
+examination	O
+,	O
+it	O
+was	O
+a	O
+firm	B-clinical_findings
+,	I-clinical_findings
+freely	I-clinical_findings
+mobile	I-clinical_findings
+swelling	I-clinical_findings
+in	O
+the	O
+posterior	B-misc_medical
+triangle	I-misc_medical
+of	I-misc_medical
+the	I-misc_medical
+neck	I-misc_medical
+measuring	O
+1	B-misc_medical
+cm	I-misc_medical
+1	I-misc_medical
+cm	I-misc_medical
+.	O
+
+# id = 082cf9ae0b3bd383bcf4a2c74b193426
+Escada	B-drugs
+Plus	I-drugs
+0	I-drugs
+.	I-drugs
+5mg	I-drugs
+/	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+anxiety	B-clinical_findings
+disorder	I-clinical_findings
+.	O
+It	O
+is	O
+the	O
+combination	O
+medicine	O
+that	O
+calms	B-clinical_findings
+the	I-clinical_findings
+brain	I-clinical_findings
+by	O
+decreasing	O
+the	O
+abnormal	B-clinical_findings
+and	I-clinical_findings
+excessive	I-clinical_findings
+activity	I-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+nerve	I-clinical_findings
+cells	I-clinical_findings
+.	O
+
+# id = 5fce177897d564afd179233aab0152b3
+In	O
+September	O
+2008	O
+,	O
+breast	B-clinical_findings
+cancer	I-clinical_findings
+was	O
+diagnosed	O
+by	O
+needle	B-diagnostics
+biopsy	I-diagnostics
+when	O
+an	O
+abnormal	B-clinical_findings
+cluster	I-clinical_findings
+of	I-clinical_findings
+calcifications	I-clinical_findings
+was	O
+identified	O
+by	O
+a	O
+screening	B-diagnostics
+mammography	I-diagnostics
+in	O
+September	O
+2008	O
+.	O
+
+# id = c5a4c0a47b83e42a0513d2ef7f91ba4b
+Her	O
+early	O
+pregnancy	B-clinical_findings
+was	O
+uneventful	O
+and	O
+ultrasound	B-diagnostics
+examination	I-diagnostics
+had	O
+not	O
+been	O
+performed	O
+in	O
+the	O
+first	O
+trimester	O
+.	O
+On	O
+examination	O
+,	O
+her	O
+vital	B-diagnostics
+signs	I-diagnostics
+were	O
+stable	O
+and	O
+tenderness	B-clinical_findings
+was	O
+present	O
+in	O
+the	O
+right	B-misc_medical
+iliac	I-misc_medical
+fossa	I-misc_medical
+and	O
+right	B-misc_medical
+lumbar	I-misc_medical
+region	I-misc_medical
+.	O
+
+# id = f5ae09ba87a235c1d118c42a4cebb68e
+S	B-diagnostics
+.	I-diagnostics
+Para	I-diagnostics
+Typhi	I-diagnostics
+Antigen	I-diagnostics
+AH	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+Average	B-diagnostics
+blood	I-diagnostics
+glucose	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+303	B-clinical_findings
+.	I-clinical_findings
+44	I-clinical_findings
+mg	I-clinical_findings
+/	I-clinical_findings
+dL	I-clinical_findings
+RANDOM	B-diagnostics
+BLOOD	I-diagnostics
+SUGAR	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+85	B-clinical_findings
+.	I-clinical_findings
+7	I-clinical_findings
+mg	I-clinical_findings
+/	I-clinical_findings
+dL	I-clinical_findings
+
+# id = 99c5114026281dc9e20aa1424872091f
+Swelling	B-clinical_findings
+increases	O
+in	O
+size	O
+rapidly	O
+involving	O
+eyelid	B-misc_medical
+,	O
+entire	O
+orbit	B-misc_medical
+,	O
+and	O
+subsequently	O
+to	O
+the	O
+forehead	B-misc_medical
+.	O
+It	O
+also	O
+becomes	O
+intermittently	O
+painful	B-clinical_findings
+.	O
+She	O
+started	O
+to	O
+loss	B-clinical_findings
+her	I-clinical_findings
+left	I-clinical_findings
+eye	I-clinical_findings
+vision	I-clinical_findings
+gradually	O
+until	O
+it	O
+completely	O
+loss	O
+one	O
+month	O
+later	O
+.	O
+
+# id = 5725ff84671f7e6b8c7319c4efde80e1
+Patient	O
+has	O
+a	O
+nose	B-clinical_findings
+piercing	I-clinical_findings
+,	O
+which	O
+appears	O
+well	B-clinical_findings
+-	I-clinical_findings
+healed	I-clinical_findings
+and	O
+without	O
+any	O
+signs	O
+of	O
+inflammation	B-clinical_findings
+or	O
+infection	B-clinical_findings
+.	O
+There	O
+is	O
+no	O
+history	O
+of	O
+radiation	B-misc_medical
+exposure	I-misc_medical
+or	O
+treatment	O
+.	O
+
+# id = b49bcca84716d3eb689fa2841bfb0e0c
+Myazi	B-drugs
+500mg	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+antibiotic	B-drugs
+used	O
+to	O
+treat	O
+various	O
+types	O
+of	O
+bacterial	B-clinical_findings
+infections	I-clinical_findings
+of	O
+the	O
+respiratory	B-misc_medical
+tract	I-misc_medical
+,	O
+ear	B-misc_medical
+,	O
+nose	B-misc_medical
+,	O
+throat	B-misc_medical
+,	O
+lungs	B-misc_medical
+,	O
+skin	B-misc_medical
+,	O
+and	O
+eye	B-misc_medical
+in	O
+adults	O
+and	O
+children	O
+.	O
+
+# id = bca07707a1da0ade0a3bfa7c3678cc91
+Past	O
+medical	O
+history	O
+was	O
+only	O
+significant	O
+for	O
+hypertension	B-clinical_findings
+and	O
+gastroesophageal	B-clinical_findings
+reflux	I-clinical_findings
+disease	I-clinical_findings
+.	O
+At	O
+the	O
+time	O
+of	O
+diagnosis	O
+,	O
+patient	O
+denied	O
+symptoms	O
+such	O
+as	O
+diarrhea	B-clinical_findings
+,	O
+hypoglycemia	B-clinical_findings
+,	O
+intractable	B-clinical_findings
+peptic	I-clinical_findings
+ulcer	I-clinical_findings
+,	O
+weight	B-clinical_findings
+loss	I-clinical_findings
+,	O
+fever	B-clinical_findings
+or	O
+migratory	B-clinical_findings
+skin	I-clinical_findings
+rash	I-clinical_findings
+.	O
+
+# id = 0a73f25ddd94e651e4aa4624f730b2b5
+Levepsy	B-drugs
+1000	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+anti	B-drugs
+-	I-drugs
+epileptic	I-drugs
+medicine	O
+used	O
+to	O
+treat	O
+seizures	B-clinical_findings
+fits	B-clinical_findings
+in	O
+epilepsy	B-clinical_findings
+.	O
+It	O
+can	O
+be	O
+used	O
+alone	O
+or	O
+along	O
+with	O
+other	O
+medicines	O
+.	O
+It	O
+helps	O
+to	O
+prevent	O
+seizures	B-clinical_findings
+for	O
+as	O
+long	O
+as	O
+you	O
+continue	O
+to	O
+take	O
+it	O
+.	O
+
+# id = 4351c8ab6efc31bac80df326ffc48b2c
+Telpres	B-drugs
+40	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+and	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+.	O
+Lowering	O
+blood	B-clinical_findings
+pressure	I-clinical_findings
+helps	O
+to	O
+prevent	O
+future	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+and	O
+stroke	B-clinical_findings
+.	O
+This	O
+medicine	O
+is	O
+also	O
+effective	O
+in	O
+preserving	O
+kidney	B-clinical_findings
+function	I-clinical_findings
+in	O
+patients	O
+with	O
+diabetes	B-clinical_findings
+.	O
+
+# id = c17423373032ef93c196f4b46ac1d347
+An	O
+isoechoic	B-clinical_findings
+nodule	I-clinical_findings
+with	O
+minimal	O
+cystic	B-clinical_findings
+changes	I-clinical_findings
+in	O
+a	O
+47	O
+-	O
+year	O
+-	O
+old	O
+woman	O
+.	O
+The	O
+isoechoic	B-clinical_findings
+nodule	I-clinical_findings
+40	B-clinical_findings
+mm	I-clinical_findings
+has	O
+a	O
+smooth	B-clinical_findings
+margin	I-clinical_findings
+,	O
+ovoid	B-clinical_findings
+shape	I-clinical_findings
+,	O
+parallel	B-clinical_findings
+orientation	I-clinical_findings
+,	O
+and	O
+focal	B-clinical_findings
+minimal	I-clinical_findings
+cystic	I-clinical_findings
+change	I-clinical_findings
+arrow	O
+.	O
+The	O
+final	O
+diagnosis	O
+was	O
+benign	B-diagnostics
+follicular	I-diagnostics
+nodule	I-diagnostics
+.	O
+
+# id = 68924f37438a0e74cc5ae9eaf64907fa
+Olmin	B-drugs
+20	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+and	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+.	O
+Lowering	O
+blood	B-clinical_findings
+pressure	I-clinical_findings
+helps	O
+to	O
+prevent	O
+future	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+and	O
+stroke	B-clinical_findings
+.	O
+This	O
+medicine	O
+is	O
+also	O
+effective	O
+in	O
+preserving	O
+kidney	B-clinical_findings
+function	I-clinical_findings
+in	O
+patients	O
+with	O
+diabetes	B-clinical_findings
+.	O
+
+# id = 8c74ec1ff116f810be73f00841d071a9
+Cenoza	B-drugs
+-	I-drugs
+A	I-drugs
+75mg	I-drugs
+/	I-drugs
+75mg	I-drugs
+Capsule	I-drugs
+is	O
+a	O
+combination	O
+of	O
+two	O
+antiplatelet	B-drugs
+medicines	I-drugs
+or	O
+blood	B-drugs
+thinner	I-drugs
+used	O
+to	O
+reduce	O
+the	O
+formation	O
+of	O
+harmful	O
+blood	B-clinical_findings
+clots	I-clinical_findings
+in	O
+blood	O
+vessels	O
+.	O
+This	O
+helps	O
+to	O
+prevent	O
+a	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+or	O
+stroke	B-clinical_findings
+in	O
+people	O
+with	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = e62d30df1f6d9c397449e01c6c11e1e7
+She	O
+had	O
+had	O
+a	O
+similar	O
+large	B-clinical_findings
+lump	I-clinical_findings
+in	O
+2013	O
+and	O
+2017	O
+,	O
+and	O
+had	O
+twice	O
+undergone	O
+excision	B-diagnostics
+of	O
+the	O
+tumour	B-clinical_findings
+elsewhere	O
+.	O
+Biopsy	B-diagnostics
+revealed	O
+a	O
+well	B-clinical_findings
+differentiated	I-clinical_findings
+liposarcoma	I-clinical_findings
+.	O
+
+# id = 13542bb389abf2445049abb1b88098ef
+A	O
+36	O
+-	O
+year	O
+-	O
+old	O
+woman	O
+with	O
+puerperal	B-clinical_findings
+abscess	I-clinical_findings
+12	O
+weeks	O
+after	O
+delivery	O
+.	O
+Breast	B-diagnostics
+sonogram	I-diagnostics
+shows	O
+53	B-clinical_findings
+cm	I-clinical_findings
+slightly	I-clinical_findings
+lobulated	I-clinical_findings
+,	I-clinical_findings
+hypoechoic	I-clinical_findings
+collections	I-clinical_findings
+with	O
+posterior	B-clinical_findings
+enhancement	I-clinical_findings
+within	O
+the	O
+right	B-misc_medical
+lower	I-misc_medical
+outer	I-misc_medical
+quadrant	I-misc_medical
+and	O
+inserted	O
+needle	O
+for	O
+aspiration	O
+.	O
+
+# id = fe0ab548fee7fd9cc31b0a1150c8e81e
+Artcure	B-drugs
+80mg	I-drugs
+/	I-drugs
+480mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+medicine	O
+that	O
+is	O
+prescribed	O
+to	O
+treat	O
+malaria	B-clinical_findings
+.	O
+It	O
+fights	O
+against	O
+the	O
+infection	B-clinical_findings
+by	O
+preventing	O
+the	O
+growth	O
+of	O
+the	O
+parasites	B-clinical_findings
+inside	O
+the	O
+body	O
+.	O
+Artcure	B-drugs
+80mg	I-drugs
+/	I-drugs
+480mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+.	O
+
+# id = a4bfdd8abda713fce4eba99556648776
+Serutan	B-drugs
+212	I-drugs
+.	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+to	O
+treat	O
+pancreatic	B-clinical_findings
+enzyme	I-clinical_findings
+deficiency	I-clinical_findings
+.	O
+It	O
+is	O
+a	O
+pancreatic	B-drugs
+enzyme	I-drugs
+supplement	I-drugs
+that	O
+helps	O
+in	O
+digestion	B-misc_medical
+.	O
+This	O
+medicine	O
+also	O
+reduces	O
+stool	B-clinical_findings
+frequency	I-clinical_findings
+and	O
+stomach	B-clinical_findings
+discomfort	I-clinical_findings
+.	O
+
+# id = 1507f655d70916a1f0f80224e9d90b8b
+Ceff	B-drugs
+250mg	I-drugs
+Capsule	I-drugs
+is	O
+an	O
+antibiotic	B-drugs
+medicine	O
+used	O
+to	O
+treat	O
+bacterial	B-clinical_findings
+infections	I-clinical_findings
+in	O
+your	O
+body	O
+.	O
+It	O
+is	O
+effective	O
+in	O
+infections	B-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+lungs	I-clinical_findings
+,	O
+ears	B-clinical_findings
+,	O
+throat	B-clinical_findings
+,	O
+urinary	B-clinical_findings
+tract	I-clinical_findings
+,	O
+skin	B-clinical_findings
+,	O
+soft	B-clinical_findings
+tissues	I-clinical_findings
+,	O
+bones	B-clinical_findings
+,	O
+and	O
+joints	B-clinical_findings
+.	O
+
+# id = 6a545a85df8c96b13a3d7ced2b0efc12
+She	O
+had	O
+fainted	B-clinical_findings
+at	O
+school	O
+earlier	O
+in	O
+the	O
+day	O
+and	O
+been	O
+sent	O
+home	O
+.	O
+That	O
+afternoon	O
+,	O
+she	O
+had	O
+vomited	B-clinical_findings
+once	O
+and	O
+rested	B-advices
+in	I-advices
+bed	I-advices
+.	O
+She	O
+woke	O
+during	O
+the	O
+night	O
+,	O
+screaming	B-clinical_findings
+in	I-clinical_findings
+pain	I-clinical_findings
+.	O
+
+# id = b9d4765179e9f5f36b63b51d5ae99171
+Eurythmic	B-drugs
+200mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+to	O
+treat	O
+various	O
+types	O
+of	O
+serious	O
+irregular	B-clinical_findings
+heartbeat	I-clinical_findings
+arrhythmia	B-clinical_findings
+such	O
+as	O
+fibrillation	B-clinical_findings
+and	O
+tachycardia	B-clinical_findings
+.	O
+It	O
+is	O
+an	O
+anti	B-misc_medical
+-	I-misc_medical
+arrhythmic	I-misc_medical
+type	O
+of	O
+medicine	O
+and	O
+rapidly	O
+restores	O
+your	O
+heart	O
+to	O
+a	O
+steady	O
+and	O
+regular	O
+rhythm	O
+.	O
+
+# id = e7d3b2b349456d3553cae2cdb3a895dd
+Claricet	B-drugs
+250mg	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+antibiotic	B-drugs
+used	O
+to	O
+treat	O
+various	O
+types	O
+of	O
+infections	B-clinical_findings
+.	O
+It	O
+is	O
+effective	O
+in	O
+most	O
+infections	B-clinical_findings
+of	O
+the	O
+respiratory	B-misc_medical
+tract	I-misc_medical
+,	O
+ear	B-misc_medical
+,	O
+nose	B-misc_medical
+,	O
+throat	B-misc_medical
+,	O
+lungs	B-misc_medical
+,	O
+and	O
+skin	B-misc_medical
+.	O
+
+# id = f105d4b59b17ec108cbadad526acf9ca
+The	O
+last	O
+repair	O
+of	O
+inguinal	B-clinical_findings
+hernia	I-clinical_findings
+was	O
+7	O
+months	O
+ago	O
+in	O
+which	O
+he	O
+required	O
+mesh	B-misc_medical
+placement	I-misc_medical
+.	O
+He	O
+presented	O
+to	O
+the	O
+emergency	O
+department	O
+with	O
+an	O
+excruciating	B-clinical_findings
+stabbing	I-clinical_findings
+pain	I-clinical_findings
+in	O
+the	O
+right	B-clinical_findings
+lower	I-clinical_findings
+abdomen	I-clinical_findings
+and	O
+pelvis	B-clinical_findings
+area	O
+for	O
+3	O
+weeks	O
+.	O
+
+# id = ce39174f1e7ef2f74eec6d50fe2509f8
+Acetohexamide	B-drugs
+is	O
+used	O
+to	O
+treat	O
+type	B-clinical_findings
+2	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+for	O
+controlling	O
+the	O
+high	B-clinical_findings
+blood	I-clinical_findings
+sugar	I-clinical_findings
+level	O
+together	O
+with	O
+diet	B-advices
+and	O
+exercise	B-advices
+.	O
+Acetohexamide	B-drugs
+stimulates	O
+the	O
+pancreas	B-misc_medical
+to	O
+secrete	O
+insulin	B-misc_medical
+and	O
+hence	O
+it	O
+should	O
+not	O
+be	O
+used	O
+in	O
+type	B-clinical_findings
+1	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+.	O
+
+# id = a7919bb75c3713df7583516ae9b78c4a
+Evaquik	B-drugs
+1mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+constipation	B-clinical_findings
+.	O
+It	O
+increases	O
+the	O
+release	O
+of	O
+certain	O
+chemical	O
+that	O
+improves	O
+the	O
+movement	B-clinical_findings
+of	I-clinical_findings
+food	I-clinical_findings
+inside	I-clinical_findings
+the	I-clinical_findings
+intestine	I-clinical_findings
+and	O
+helps	O
+to	O
+increase	O
+gastric	B-clinical_findings
+emptying	I-clinical_findings
+of	O
+both	O
+liquid	O
+and	O
+solid	O
+.	O
+
+# id = bf4bcdb0d1121873b95d6d1897ad12c8
+He	O
+has	O
+a	O
+medical	O
+history	O
+of	O
+ventricular	B-clinical_findings
+septal	I-clinical_findings
+defect	I-clinical_findings
+associated	O
+with	O
+pulmonary	B-clinical_findings
+stenosis	I-clinical_findings
+diagnosed	O
+at	O
+15	O
+years	O
+old	O
+,	O
+with	O
+surgical	B-misc_medical
+treatment	I-misc_medical
+refused	O
+by	O
+his	O
+parents	O
+and	O
+with	O
+interrupted	O
+follow	O
+-	O
+up	O
+since	O
+then	O
+.	O
+
+# id = e2ffaa302baa3db2c9943d99e286683a
+Oricox	B-drugs
+T	I-drugs
+60mg	I-drugs
+/	I-drugs
+4mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+of	O
+two	O
+medicines	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+pain	B-clinical_findings
+due	O
+to	O
+muscle	B-clinical_findings
+spasm	I-clinical_findings
+.	O
+It	O
+improves	O
+the	O
+movement	B-clinical_findings
+of	I-clinical_findings
+muscles	I-clinical_findings
+and	O
+provides	O
+relief	O
+from	O
+pain	B-clinical_findings
+and	O
+discomfort	B-clinical_findings
+associated	O
+with	O
+muscle	B-clinical_findings
+spasms	I-clinical_findings
+.	O
+
+# id = 1737f55d850ee5d91749f191dd81c65a
+Etipax	B-drugs
+0	I-drugs
+.	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+short	O
+term	O
+anxiety	B-clinical_findings
+and	O
+insomnia	B-clinical_findings
+.	O
+It	O
+binds	O
+to	O
+specific	O
+receptor	B-misc_medical
+sites	I-misc_medical
+in	O
+the	O
+brain	B-misc_medical
+and	O
+calms	O
+the	O
+brain	B-misc_medical
+.	O
+Therefore	O
+,	O
+it	O
+provides	O
+effective	O
+relaxation	B-clinical_findings
+to	O
+the	O
+brain	B-misc_medical
+.	O
+
+# id = 2a48c6a25429ee1a2af89016d5c2eaae
+A	O
+skin	B-diagnostics
+biopsy	I-diagnostics
+is	O
+a	O
+procedure	O
+to	O
+remove	O
+cells	B-misc_medical
+from	O
+the	O
+surface	O
+of	O
+your	O
+body	O
+so	O
+that	O
+they	O
+can	O
+be	O
+tested	O
+in	O
+a	O
+lab	B-misc_medical
+.	O
+A	O
+skin	B-diagnostics
+biopsy	I-diagnostics
+is	O
+used	O
+most	O
+often	O
+to	O
+diagnose	O
+skin	B-clinical_findings
+conditions	I-clinical_findings
+.	O
+
+# id = 9e5d57aa83f728f6833c641d45ab546f
+OF	B-drugs
+200	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+antibiotic	B-drugs
+,	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+bacterial	B-clinical_findings
+infections	I-clinical_findings
+.	O
+It	O
+is	O
+also	O
+used	O
+in	O
+treating	O
+infections	B-clinical_findings
+of	O
+the	O
+urinary	B-misc_medical
+tract	I-misc_medical
+,	O
+nose	B-misc_medical
+,	O
+throat	B-misc_medical
+,	O
+skin	B-misc_medical
+and	O
+soft	B-misc_medical
+tissues	I-misc_medical
+and	O
+lungs	B-misc_medical
+pneumonia	B-clinical_findings
+.	O
+
+# id = 927d7b48ea4541dde47955d9611e02ef
+Pentobarbital	B-drugs
+is	O
+a	O
+barbiturate	B-drugs
+,	O
+prescribed	O
+for	O
+insomnia	B-clinical_findings
+and	O
+seizures	B-clinical_findings
+.	O
+Pentobarbital	B-drugs
+slows	O
+the	O
+activities	O
+of	O
+brain	B-misc_medical
+and	O
+nervous	B-misc_medical
+system	I-misc_medical
+.	O
+When	O
+should	O
+Pentobarbital	B-drugs
+not	O
+to	O
+be	O
+taken	O
+
+# id = 83aabd384c186421577ce2634a701cb5
+No	O
+significant	O
+diseases	O
+were	O
+mentioned	O
+in	O
+the	O
+anamnesis	O
+.	O
+The	O
+patient	O
+was	O
+diagnosed	O
+with	O
+gingivitis	B-clinical_findings
+,	O
+and	O
+treated	O
+with	O
+a	O
+non	B-drugs
+-	I-drugs
+steroid	I-drugs
+anti	I-drugs
+-	I-drugs
+inflammatory	I-drugs
+drug	I-drugs
+and	O
+oral	B-advices
+rinsing	I-advices
+with	O
+chlorhexidine	B-drugs
+.	O
+The	O
+condition	B-clinical_findings
+of	O
+the	O
+patient	O
+did	O
+not	O
+improve	O
+significantly	O
+.	O
+
+# id = b1af8ce85ac2f280488ad9df84d108cc
+Rolistat	B-drugs
+10	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+statins	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+lower	O
+cholesterol	B-clinical_findings
+and	O
+to	O
+reduce	O
+the	O
+risk	O
+of	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = c52c401ee775294302728cb0dcc8419f
+This	O
+right	B-diagnostics
+lateral	I-diagnostics
+radiograph	I-diagnostics
+demonstrates	O
+collapse	B-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+intrathoracic	I-clinical_findings
+trachea	I-clinical_findings
+at	O
+the	O
+carina	B-misc_medical
+black	O
+arrow	O
+as	O
+well	O
+as	O
+collapse	B-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+cranial	I-clinical_findings
+and	I-clinical_findings
+caudal	I-clinical_findings
+segments	I-clinical_findings
+of	O
+the	O
+bronchus	B-misc_medical
+of	O
+the	O
+left	B-misc_medical
+cranial	I-misc_medical
+lung	I-misc_medical
+lobe	I-misc_medical
+white	O
+arrows	O
+.	O
+
+# id = 55c321b1b67c7ba16d9536bb138ee42b
+Olcet	B-drugs
+5mg	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+antihistamines	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+various	O
+allergic	O
+conditions	O
+such	O
+as	O
+hay	B-clinical_findings
+fever	I-clinical_findings
+,	O
+conjunctivitis	B-clinical_findings
+,	O
+some	O
+skin	B-clinical_findings
+reactions	I-clinical_findings
+such	O
+as	O
+eczema	B-clinical_findings
+,	O
+hives	B-clinical_findings
+,	O
+and	O
+reactions	B-clinical_findings
+to	I-clinical_findings
+bites	I-clinical_findings
+and	I-clinical_findings
+stings	I-clinical_findings
+.	O
+
+# id = 362b056fc1e05318e378225fb6725235
+The	O
+first	O
+episode	O
+occurred	O
+at	O
+the	O
+age	O
+of	O
+22	O
+months	O
+following	O
+a	O
+respiratory	B-clinical_findings
+tract	I-clinical_findings
+infection	I-clinical_findings
+.	O
+At	O
+that	O
+time	O
+,	O
+her	O
+creatine	B-diagnostics
+kinase	I-diagnostics
+CK	B-diagnostics
+serum	O
+concentration	O
+was	O
+noted	O
+to	O
+be	O
+250	B-diagnostics
+000	I-diagnostics
+U	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+.	O
+The	O
+family	B-diagnostics
+history	I-diagnostics
+indicated	O
+that	O
+both	O
+parents	O
+were	O
+well	O
+.	O
+
+# id = 5a7f68f9bcd4e04bbf8bb3cbf4158073
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+statin	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+myopathy	I-clinical_findings
+,	O
+skin	B-clinical_findings
+allergy	I-clinical_findings
+since	O
+childhood	O
+,	O
+and	O
+a	O
+known	O
+dust	B-clinical_findings
+allergy	I-clinical_findings
+for	O
+several	O
+years	O
+.	O
+Additionally	O
+,	O
+the	O
+patient	O
+is	O
+intolerant	B-clinical_findings
+to	I-clinical_findings
+certain	I-clinical_findings
+drugs	I-clinical_findings
+,	O
+presenting	O
+with	O
+rashes	B-clinical_findings
+and	O
+respiratory	B-clinical_findings
+distress	I-clinical_findings
+.	O
+
+# id = e0a799406464e4527c4c27aac8cf8e25
+The	O
+patient	O
+had	O
+a	O
+generally	O
+good	O
+healthy	B-clinical_findings
+condition	I-clinical_findings
+and	O
+had	O
+no	O
+history	O
+of	O
+trauma	B-clinical_findings
+or	O
+injury	B-clinical_findings
+.	O
+She	O
+had	O
+worked	O
+as	O
+an	O
+oyster	O
+handler	O
+takes	O
+out	O
+oyster	O
+meat	O
+from	O
+the	O
+shell	O
+for	O
+a	O
+long	O
+time	O
+.	O
+
+# id = 8ddafe9f7a550af8492fee7e434cf44b
+Ten	O
+days	O
+later	O
+,	O
+the	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+same	O
+general	O
+hospital	O
+with	O
+Staphylococcus	B-clinical_findings
+Aureus	I-clinical_findings
+sepsis	I-clinical_findings
+.	O
+Ultrasound	B-diagnostics
+examination	O
+showed	O
+a	O
+fluid	B-clinical_findings
+collection	I-clinical_findings
+in	O
+her	O
+right	B-misc_medical
+shoulder	I-misc_medical
+.	O
+Repeated	O
+arthrocentesis	B-diagnostics
+was	O
+performed	O
+in	O
+order	O
+to	O
+drain	O
+the	O
+fluid	O
+and	O
+antibiotics	B-drugs
+were	O
+started	O
+.	O
+
+# id = 421d00f5f6455b420bdfea96d2af8afc
+Salmonella	B-diagnostics
+paratyphi	I-diagnostics
+AH	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+HAEMATOCRIT	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+25	B-diagnostics
+.	I-diagnostics
+9	I-diagnostics
+%	I-diagnostics
+SARS	B-diagnostics
+-	I-diagnostics
+CoV	I-diagnostics
+-	I-diagnostics
+2	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+
+# id = e17507434352d8e522a0fc1bdf6d6ffb
+Creolip	B-drugs
+10mg	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+statins	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+lower	O
+cholesterol	B-clinical_findings
+and	O
+to	O
+reduce	O
+the	O
+risk	O
+of	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = d26675578d161ea4f8e13a8361904763
+The	O
+swelling	B-clinical_findings
+had	O
+progressed	O
+gradually	O
+over	O
+the	O
+course	O
+of	O
+at	O
+least1	O
+month	O
+and	O
+the	O
+patient	O
+had	O
+shown	O
+no	O
+improvement	O
+despite	O
+antibiotic	B-drugs
+treatment	O
+.	O
+The	O
+patient	O
+had	O
+clear	O
+rhinorrhea	B-clinical_findings
+and	O
+a	O
+history	O
+of	O
+close	B-misc_medical
+contact	I-misc_medical
+with	I-misc_medical
+sheep	I-misc_medical
+and	I-misc_medical
+dogs	I-misc_medical
+.	O
+
+# id = ba1da35a370983c323e0e4d8c9aad3a4
+Hartan	B-drugs
+25mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+and	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+.	O
+Lowering	O
+blood	B-clinical_findings
+pressure	I-clinical_findings
+helps	O
+to	O
+prevent	O
+future	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+and	O
+stroke	B-clinical_findings
+.	O
+This	O
+medicine	O
+is	O
+also	O
+effective	O
+in	O
+preserving	O
+kidney	B-clinical_findings
+function	I-clinical_findings
+in	O
+patients	O
+with	O
+diabetes	B-clinical_findings
+.	O
+
+# id = 756552740de8ca414506d7e18a478395
+Fetal	B-misc_medical
+fibronectin	I-misc_medical
+is	O
+a	O
+protein	B-misc_medical
+that	O
+'	O
+s	O
+believed	O
+to	O
+help	O
+keep	O
+the	O
+amniotic	B-misc_medical
+sac	I-misc_medical
+"	O
+glued	O
+"	O
+to	O
+the	O
+lining	O
+of	O
+the	O
+uterus	B-misc_medical
+.	O
+The	O
+amniotic	B-misc_medical
+sac	I-misc_medical
+is	O
+the	O
+fluid	B-misc_medical
+-	I-misc_medical
+filled	I-misc_medical
+membrane	I-misc_medical
+that	O
+cushions	O
+your	O
+baby	B-misc_medical
+in	O
+the	O
+uterus	B-misc_medical
+.	O
+
+# id = e3a45fb821c086aacdfd080ae62d1a4c
+Patient	O
+reports	O
+regular	O
+alcohol	B-drugs
+consumption	O
+,	O
+with	O
+a	O
+history	O
+of	O
+consuming	O
+2	B-drugs
+-	I-drugs
+3	I-drugs
+alcoholic	I-drugs
+beverages	I-drugs
+daily	O
+,	O
+often	O
+in	O
+the	O
+evenings	O
+.	O
+This	O
+long	O
+-	O
+standing	O
+pattern	O
+of	O
+alcohol	B-drugs
+intake	O
+has	O
+raised	O
+concerns	O
+about	O
+potential	O
+liver	B-clinical_findings
+damage	I-clinical_findings
+and	O
+increased	O
+risk	O
+of	O
+alcohol	B-clinical_findings
+-	I-clinical_findings
+related	I-clinical_findings
+health	I-clinical_findings
+issues	I-clinical_findings
+.	O
+
+# id = 1b80038a6b7657456432fe9cfd700898
+Glimpure	B-drugs
+MV	I-drugs
+2	I-drugs
+.	I-drugs
+3	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+category	O
+of	O
+medicines	O
+known	O
+as	O
+anti	B-drugs
+-	I-drugs
+diabetic	I-drugs
+drugs	I-drugs
+.	O
+It	O
+is	O
+a	O
+combination	O
+of	O
+medicines	O
+used	O
+to	O
+treat	O
+type	B-clinical_findings
+2	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+in	O
+adults	O
+.	O
+It	O
+helps	O
+control	O
+blood	B-clinical_findings
+sugar	I-clinical_findings
+levels	I-clinical_findings
+in	O
+people	O
+with	O
+diabetes	B-clinical_findings
+.	O
+
+# id = 38f779f2b6189411034d8c6fc4265912
+Patient	O
+engages	O
+in	O
+rigorous	B-advices
+weight	I-advices
+lifting	I-advices
+exercises	I-advices
+,	O
+lifting	B-advices
+heavy	I-advices
+weights	I-advices
+for	O
+1	O
+-	O
+2	O
+hours	O
+per	O
+session	O
+,	O
+3	O
+-	O
+4	O
+times	O
+a	O
+week	O
+.	O
+This	O
+intense	O
+physical	O
+activity	O
+has	O
+led	O
+to	O
+significant	O
+muscle	B-clinical_findings
+development	I-clinical_findings
+and	O
+improved	O
+cardiovascular	B-clinical_findings
+health	I-clinical_findings
+.	O
+
+# id = 434352d1848ae699c62a0d219d1cfe04
+CHLORIDE	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+104	B-diagnostics
+.	I-diagnostics
+5	I-diagnostics
+mmol	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+Immature	B-diagnostics
+Granulocytes	I-diagnostics
+IG	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+0	B-diagnostics
+.	I-diagnostics
+2	I-diagnostics
+%	I-diagnostics
+ABSOLUTE	B-diagnostics
+MONOCYTES	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+750	B-diagnostics
+.	I-diagnostics
+0	I-diagnostics
+10	I-diagnostics
+*	I-diagnostics
+3	I-diagnostics
+/	I-diagnostics
+mm3	I-diagnostics
+
+# id = d3a5f157f7420744c9054e5bc57d7ad3
+Montair	B-drugs
+Plus	I-drugs
+Kid	I-drugs
+4mg	I-drugs
+/	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+asthma	B-clinical_findings
+wheezing	B-clinical_findings
+and	O
+shortness	B-clinical_findings
+of	I-clinical_findings
+breath	I-clinical_findings
+.	O
+It	O
+relaxes	O
+the	O
+muscles	O
+of	O
+the	O
+air	B-misc_medical
+passages	I-misc_medical
+and	O
+makes	O
+it	O
+easier	O
+to	O
+breathe	O
+.	O
+
+# id = 208fde31a570e394160cffb86c924b25
+CREATININE	B-diagnostics
+,	O
+Serum	O
+,	O
+the	O
+value	O
+is	O
+0	B-diagnostics
+.	I-diagnostics
+81	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+Calcium	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+9	B-diagnostics
+.	I-diagnostics
+9	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+Serum	B-diagnostics
+Bilirubin	I-diagnostics
+Direct	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+0	B-diagnostics
+.	I-diagnostics
+32	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+
+# id = 71851c531f2c387fce59e3dec3922a50
+HB	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+14	B-clinical_findings
+.	I-clinical_findings
+5	I-clinical_findings
+g	I-clinical_findings
+/	I-clinical_findings
+dL	I-clinical_findings
+HDL	B-diagnostics
+Cholestrol	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+39	B-clinical_findings
+.	I-clinical_findings
+0	I-clinical_findings
+mg	I-clinical_findings
+/	I-clinical_findings
+dL	I-clinical_findings
+AMORPHOUS	B-clinical_findings
+MATERIAL	I-clinical_findings
+,	O
+value	O
+is	O
+not	O
+available	O
+
+# id = 12939e114c3787df6349ef5da67374b9
+Dapanorm	B-drugs
+5mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+alone	O
+or	O
+in	O
+combination	O
+with	O
+other	O
+medicines	O
+to	O
+treat	O
+type	B-clinical_findings
+2	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+.	O
+It	O
+helps	O
+control	O
+the	O
+high	B-clinical_findings
+blood	I-clinical_findings
+sugar	I-clinical_findings
+levels	O
+seen	O
+in	O
+diabetes	B-clinical_findings
+.	O
+
+# id = 2556120cbc78b92be4955e95188a55a8
+Olmax	B-drugs
+-	I-drugs
+CH	I-drugs
+40	I-drugs
+/	I-drugs
+12	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+of	O
+two	O
+medicines	O
+.	O
+It	O
+helps	O
+to	O
+control	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+in	O
+different	O
+ways	O
+.	O
+If	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+is	O
+not	O
+treated	O
+it	O
+can	O
+lead	O
+to	O
+heart	B-clinical_findings
+attacks	I-clinical_findings
+,	O
+strokes	B-clinical_findings
+and	O
+kidney	B-clinical_findings
+failure	I-clinical_findings
+.	O
+
+# id = d571de475aab278386cc1e867a6e59f2
+Feveroff	B-drugs
+650mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+relieve	O
+pain	B-clinical_findings
+and	O
+to	O
+reduce	O
+fever	B-clinical_findings
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+many	O
+conditions	O
+such	O
+as	O
+headache	B-clinical_findings
+,	O
+body	B-clinical_findings
+ache	I-clinical_findings
+,	O
+toothache	B-clinical_findings
+and	O
+common	B-clinical_findings
+cold	I-clinical_findings
+.	O
+
+# id = 8e9c200bbbe4d0dfb7c2e5400113c1a8
+Gabapen	B-drugs
+100mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+relieve	O
+the	O
+pain	B-clinical_findings
+caused	O
+by	O
+nerve	B-clinical_findings
+damage	I-clinical_findings
+neuropathic	B-clinical_findings
+pain	I-clinical_findings
+due	O
+to	O
+various	O
+conditions	O
+like	O
+diabetes	B-clinical_findings
+,	O
+shingles	B-clinical_findings
+herpes	B-clinical_findings
+zoster	I-clinical_findings
+infection	I-clinical_findings
+,	O
+spinal	B-clinical_findings
+cord	I-clinical_findings
+injury	I-clinical_findings
+,	O
+etc	O
+.	O
+
+# id = 6fe89b7b307a42b46355df634f5285a6
+The	O
+complaint	O
+started	O
+30	O
+months	O
+ago	O
+as	O
+a	O
+small	O
+hard	B-clinical_findings
+mass	I-clinical_findings
+in	O
+the	O
+upper	O
+of	O
+the	O
+right	B-clinical_findings
+thigh	I-clinical_findings
+.	O
+The	O
+patient	O
+underwent	O
+a	O
+complete	B-diagnostics
+resection	I-diagnostics
+of	O
+the	O
+mass	B-clinical_findings
+.	O
+Histological	B-diagnostics
+examination	I-diagnostics
+showed	O
+that	O
+it	O
+was	O
+a	O
+liposarcoma	B-clinical_findings
+.	O
+
+# id = 7be10ae10931cbd0406b93d40e2b3b29
+T	B-drugs
+Lac	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+for	O
+the	O
+short	O
+term	O
+treatment	O
+of	O
+moderate	B-clinical_findings
+to	I-clinical_findings
+severe	I-clinical_findings
+pain	I-clinical_findings
+.	O
+It	O
+effectively	O
+alleviates	O
+pain	B-clinical_findings
+,	O
+swelling	B-clinical_findings
+,	O
+and	O
+fever	B-clinical_findings
+.	O
+It	O
+should	O
+not	O
+be	O
+used	O
+for	O
+mild	B-clinical_findings
+or	O
+long	B-clinical_findings
+-	I-clinical_findings
+term	I-clinical_findings
+painful	I-clinical_findings
+conditions	I-clinical_findings
+.	O
+
+# id = 0efb93e961336b37f8f7593e8f626539
+Tide	B-drugs
+Plus	I-drugs
+20	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+of	O
+two	O
+medicines	O
+used	O
+to	O
+reduce	O
+excess	O
+fluid	O
+levels	O
+in	O
+the	O
+body	O
+while	O
+maintaining	O
+the	O
+potassium	B-misc_medical
+balance	O
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+edema	B-clinical_findings
+fluid	B-clinical_findings
+overload	I-clinical_findings
+and	O
+some	O
+cases	O
+of	O
+hypertension	B-clinical_findings
+.	O
+
+# id = c152fdff050c132a8ce95b810ca95b42
+The	O
+patient	O
+has	O
+a	O
+known	O
+history	O
+of	O
+pollen	B-clinical_findings
+allergy	I-clinical_findings
+causing	O
+seasonal	B-clinical_findings
+rhinitis	I-clinical_findings
+and	O
+conjunctivitis	B-clinical_findings
+.	O
+Additionally	O
+,	O
+they	O
+have	O
+a	O
+drug	B-clinical_findings
+allergy	I-clinical_findings
+to	O
+penicillin	B-drugs
+,	O
+presenting	O
+with	O
+anaphylaxis	B-clinical_findings
+,	O
+and	O
+multiple	O
+food	B-clinical_findings
+allergies	I-clinical_findings
+resulting	O
+in	O
+gastrointestinal	B-clinical_findings
+distress	I-clinical_findings
+and	O
+skin	B-clinical_findings
+rashes	I-clinical_findings
+.	O
+
+# id = 8e8ed1561e5751883fec5dfdc29cf3f7
+Cardivas	B-drugs
+6	I-drugs
+.	I-drugs
+25	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+,	O
+heart	B-clinical_findings
+related	I-clinical_findings
+chest	I-clinical_findings
+pain	I-clinical_findings
+angina	B-clinical_findings
+and	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+.	O
+It	O
+works	O
+by	O
+relaxing	O
+the	O
+blood	B-misc_medical
+vessels	I-misc_medical
+,	O
+so	O
+blood	O
+can	O
+flow	O
+more	O
+easily	O
+to	O
+the	O
+heart	B-misc_medical
+.	O
+
+# id = 439e49b1a016c5f61f15a05ca7d9745c
+Budding	B-diagnostics
+Yeast	I-diagnostics
+Cells	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+Histidine	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+62	B-diagnostics
+.	I-diagnostics
+18	I-diagnostics
+umol	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+T4	B-diagnostics
+Total	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+10	B-diagnostics
+.	I-diagnostics
+0	I-diagnostics
+ug	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+
+# id = fc4925b9d61e0323be2f9a81c21a93c0
+L	B-drugs
+Kast	I-drugs
+5mg	I-drugs
+/	I-drugs
+10mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+allergic	B-clinical_findings
+symptoms	I-clinical_findings
+such	O
+as	O
+runny	B-clinical_findings
+nose	I-clinical_findings
+,	O
+stuffy	B-clinical_findings
+nose	I-clinical_findings
+,	O
+sneezing	B-clinical_findings
+,	O
+itching	B-clinical_findings
+,	O
+swelling	B-clinical_findings
+,	O
+watery	B-clinical_findings
+eyes	I-clinical_findings
+and	O
+congestion	B-clinical_findings
+or	O
+stuffiness	B-clinical_findings
+.	O
+
+# id = f8df518cb7628ae9525196ab6cf709c4
+Tyledol	B-drugs
+650mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+relieve	O
+pain	B-clinical_findings
+and	O
+to	O
+reduce	O
+fever	B-clinical_findings
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+many	O
+conditions	O
+such	O
+as	O
+headache	B-clinical_findings
+,	O
+body	B-clinical_findings
+ache	I-clinical_findings
+,	O
+toothache	B-clinical_findings
+and	O
+common	B-clinical_findings
+cold	I-clinical_findings
+.	O
+
+# id = 098bf1173ee3c8d27489b687a5af2b37
+Nicoxib	B-drugs
+90mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+pain	B-clinical_findings
+relieving	O
+medicine	O
+.	O
+It	O
+is	O
+used	O
+for	O
+relieving	O
+moderate	O
+pain	B-clinical_findings
+and	O
+swelling	B-clinical_findings
+of	O
+joints	B-misc_medical
+associated	O
+with	O
+different	O
+forms	O
+of	O
+gout	B-clinical_findings
+and	O
+arthritis	B-clinical_findings
+.	O
+It	O
+effectively	O
+alleviates	O
+pain	B-clinical_findings
+,	O
+redness	B-clinical_findings
+and	O
+swelling	B-clinical_findings
+.	O
+
+# id = 9c2910a9c28554ce85d4c2209c066595
+Advastat	B-drugs
+20	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+statins	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+lower	O
+cholesterol	B-clinical_findings
+and	O
+to	O
+reduce	O
+the	O
+risk	O
+of	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = 083b49081e8be9b5e5df08160c7212f8
+He	O
+had	O
+been	O
+experiencing	O
+pain	B-clinical_findings
+of	I-clinical_findings
+moderate	I-clinical_findings
+intensity	I-clinical_findings
+in	O
+the	O
+mid	B-clinical_findings
+third	I-clinical_findings
+of	I-clinical_findings
+his	I-clinical_findings
+left	I-clinical_findings
+thigh	I-clinical_findings
+for	O
+~	B-clinical_findings
+7	I-clinical_findings
+days	I-clinical_findings
+.	O
+Symptoms	B-clinical_findings
+gradually	I-clinical_findings
+worsened	I-clinical_findings
+over	O
+the	O
+last	B-clinical_findings
+2	I-clinical_findings
+days	I-clinical_findings
+.	O
+
+# id = a11d154afcff34ca3e474b219d28277b
+Bvert	B-drugs
+8mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+to	O
+prevent	O
+and	O
+treat	O
+a	O
+disorder	O
+of	O
+the	O
+inner	O
+ear	O
+known	O
+as	O
+Mnires	B-clinical_findings
+disease	I-clinical_findings
+.	O
+The	O
+symptoms	O
+include	O
+dizziness	B-clinical_findings
+vertigo	B-clinical_findings
+,	O
+ringing	B-clinical_findings
+in	I-clinical_findings
+the	I-clinical_findings
+ears	I-clinical_findings
+tinnitus	B-clinical_findings
+and	O
+loss	B-clinical_findings
+of	I-clinical_findings
+hearing	I-clinical_findings
+,	O
+probably	O
+caused	O
+by	O
+fluid	B-clinical_findings
+in	I-clinical_findings
+the	I-clinical_findings
+ear	I-clinical_findings
+.	O
+
+# id = 32ecb9ed08f0abdda48d39c93f1e24e0
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+steroid	B-drugs
+-	O
+induced	O
+hyperglycemia	B-clinical_findings
+,	O
+mumps	B-drugs
+vaccine	I-drugs
+allergy	O
+since	O
+childhood	O
+,	O
+and	O
+an	O
+allergy	O
+to	O
+fluoroquinolone	B-drugs
+antibiotics	I-drugs
+.	O
+Additionally	O
+,	O
+the	O
+patient	O
+has	O
+a	O
+statin	B-drugs
+-	O
+induced	O
+myopathy	B-clinical_findings
+and	O
+a	O
+known	O
+metformin	B-drugs
+allergy	O
+presenting	O
+with	O
+gastrointestinal	B-clinical_findings
+distress	I-clinical_findings
+.	O
+
+# id = 13d34696171968af412b90c1c823c6af
+PCT	B-diagnostics
+Platelet	B-diagnostics
+crit	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+0	B-diagnostics
+.	I-diagnostics
+28	I-diagnostics
+%	I-diagnostics
+S	B-diagnostics
+.	I-diagnostics
+CREATININE	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+0	B-diagnostics
+.	I-diagnostics
+92	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+BICARBONATE	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+24	B-diagnostics
+.	I-diagnostics
+6	I-diagnostics
+mmol	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+
+# id = 6fe9374d89c538908da50ddae4b94352
+There	O
+were	O
+no	O
+irregular	B-clinical_findings
+erosions	I-clinical_findings
+or	O
+depressions	B-clinical_findings
+within	O
+the	O
+field	O
+of	O
+view	O
+.	O
+Upper	B-diagnostics
+gastrointestinal	I-diagnostics
+series	I-diagnostics
+revealed	O
+gastric	B-clinical_findings
+fold	I-clinical_findings
+swelling	I-clinical_findings
+extending	O
+from	O
+the	O
+gastric	B-misc_medical
+corpus	I-misc_medical
+to	O
+the	O
+fundus	B-misc_medical
+.	O
+
+# id = e32d5e8e0abf89f32a460d46c7e1324c
+A	O
+CT	B-diagnostics
+chest	I-diagnostics
+and	I-diagnostics
+upper	I-diagnostics
+abdomen	I-diagnostics
+demonstrated	O
+consolidation	B-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+right	I-clinical_findings
+lung	I-clinical_findings
+base	I-clinical_findings
+and	O
+he	O
+was	O
+treated	O
+for	O
+his	O
+pneumonia	B-clinical_findings
+and	O
+atrial	B-clinical_findings
+fibrillation	I-clinical_findings
+.	O
+Shortly	O
+after	O
+admission	O
+he	O
+developed	O
+abdominal	B-clinical_findings
+pain	I-clinical_findings
+,	O
+diarrhoea	B-clinical_findings
+and	O
+a	O
+low	B-clinical_findings
+-	I-clinical_findings
+grade	I-clinical_findings
+pyrexia	I-clinical_findings
+.	O
+
+# id = 60be3ab2df103f7a1d330f581f94405b
+CCTA	B-diagnostics
+showing	O
+an	O
+anomalous	B-clinical_findings
+vessel	I-clinical_findings
+arising	O
+from	O
+the	O
+proximal	O
+left	B-clinical_findings
+circumflex	I-clinical_findings
+artery	I-clinical_findings
+and	O
+giving	O
+rise	O
+to	O
+a	O
+9	B-clinical_findings
+.	I-clinical_findings
+7	I-clinical_findings
+cm	I-clinical_findings
+coronary	B-clinical_findings
+artery	I-clinical_findings
+aneurysm	I-clinical_findings
+.	O
+CCTAcoronary	O
+computed	B-diagnostics
+tomography	I-diagnostics
+angiography	I-diagnostics
+
+# id = f15a54d98c4d80104dd2a1e4433d0c6a
+Prolet	B-drugs
+12	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+class	O
+of	O
+medicines	O
+called	O
+barbiturates	B-drugs
+.	O
+It	O
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+and	O
+prevent	O
+epilepsy	B-clinical_findings
+seizures	B-clinical_findings
+.	O
+They	O
+also	O
+have	O
+hypnotic	B-misc_medical
+properties	O
+.	O
+
+# id = 4603ef632c4b63088fa36526db0cc071
+Postsurgical	O
+X	B-diagnostics
+-	I-diagnostics
+ray	I-diagnostics
+.	O
+An	O
+X	B-diagnostics
+-	I-diagnostics
+ray	I-diagnostics
+of	O
+the	O
+left	B-misc_medical
+foot	I-misc_medical
+with	O
+a	O
+small	O
+osteochondroma	B-clinical_findings
+at	O
+the	O
+lateral	B-misc_medical
+side	I-misc_medical
+of	O
+the	O
+distal	B-misc_medical
+phalanx	I-misc_medical
+of	O
+digit	B-misc_medical
+5	I-misc_medical
+green	O
+arrow	O
+,	O
+after	O
+surgical	B-misc_medical
+removal	I-misc_medical
+of	O
+an	O
+osteochondroma	B-clinical_findings
+at	O
+the	O
+lateral	B-misc_medical
+side	I-misc_medical
+of	O
+digit	B-misc_medical
+4	I-misc_medical
+.	O
+
+# id = d7d2685f160255cf4476148e0ead7dd3
+Coronary	B-diagnostics
+CT	I-diagnostics
+angiogram	I-diagnostics
+showing	O
+the	O
+right	O
+R	O
+,	O
+left	O
+L	O
+and	O
+non	O
+-	O
+coronary	O
+N	O
+cusps	O
+.	O
+The	O
+right	B-clinical_findings
+coronary	I-clinical_findings
+cusp	I-clinical_findings
+bares	O
+the	O
+ostia	O
+of	O
+the	O
+right	B-clinical_findings
+coronary	I-clinical_findings
+artery	I-clinical_findings
+as	O
+well	O
+as	O
+the	O
+left	B-clinical_findings
+coronary	I-clinical_findings
+artery	I-clinical_findings
+.	O
+The	O
+left	B-clinical_findings
+atrium	I-clinical_findings
+LA	O
+is	O
+also	O
+visualized	O
+.	O
+
+# id = b4ac0a795cbf7c021d88758c3c69926b
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+steroid	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+skin	I-clinical_findings
+rashes	I-clinical_findings
+,	O
+thyroxine	B-drugs
+-	O
+induced	O
+hypersensitivity	B-clinical_findings
+,	O
+and	O
+recurrent	O
+skin	B-clinical_findings
+allergies	I-clinical_findings
+since	O
+childhood	O
+.	O
+The	O
+skin	B-clinical_findings
+allergies	I-clinical_findings
+are	O
+known	O
+to	O
+cause	O
+severe	O
+itching	B-clinical_findings
+and	O
+swelling	B-clinical_findings
+upon	O
+exposure	O
+to	O
+certain	O
+triggers	O
+.	O
+
+# id = 66ffe2d425faabf32b096e90e36710ff
+Levemex	B-drugs
+OD	I-drugs
+500mg	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+anti	B-drugs
+-	I-drugs
+epileptic	I-drugs
+medicine	O
+used	O
+to	O
+treat	O
+seizures	B-clinical_findings
+fits	B-clinical_findings
+in	O
+epilepsy	B-clinical_findings
+.	O
+It	O
+can	O
+be	O
+used	O
+alone	O
+or	O
+along	O
+with	O
+other	O
+medicines	O
+.	O
+It	O
+helps	O
+to	O
+prevent	O
+seizures	B-clinical_findings
+for	O
+as	O
+long	O
+as	O
+you	O
+continue	O
+to	O
+take	O
+it	O
+.	O
+
+# id = 365c9e865f357cac533ce1f7cbaec9ce
+Emotrip	B-drugs
+25	I-drugs
+mg	I-drugs
+/	I-drugs
+10	I-drugs
+mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+of	O
+two	O
+medicines	O
+.	O
+It	O
+is	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+depression	B-clinical_findings
+associated	O
+with	O
+anxiety	B-clinical_findings
+.	O
+It	O
+helps	O
+in	O
+regulating	O
+mood	B-clinical_findings
+and	O
+to	O
+reduce	O
+anxiety	B-clinical_findings
+.	O
+Emotrip	B-drugs
+25	I-drugs
+
+# id = 398c1e9193452f80441fb51c7ea6baa4
+Oliza	B-drugs
+2	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+schizophrenia	B-clinical_findings
+a	O
+mental	O
+disorder	O
+that	O
+can	O
+result	O
+in	O
+hallucinations	B-clinical_findings
+or	O
+delusions	B-clinical_findings
+and	O
+also	O
+adversely	O
+affects	O
+a	O
+persons	O
+ability	O
+to	O
+think	O
+and	O
+behave	O
+and	O
+mania	B-clinical_findings
+.	O
+
+# id = 1f5322cd37a00eb35222c5fd56376faa
+Cilapam	B-drugs
+H	I-drugs
+0	I-drugs
+.	I-drugs
+25	I-drugs
+mg	I-drugs
+/	I-drugs
+5	I-drugs
+mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+anxiety	B-clinical_findings
+disorder	I-clinical_findings
+.	O
+It	O
+is	O
+the	O
+combination	O
+medicine	O
+that	O
+calms	B-clinical_findings
+the	I-clinical_findings
+brain	I-clinical_findings
+by	O
+decreasing	B-clinical_findings
+the	I-clinical_findings
+abnormal	I-clinical_findings
+and	I-clinical_findings
+excessive	I-clinical_findings
+activity	I-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+nerve	I-clinical_findings
+cells	I-clinical_findings
+.	O
+
+# id = 6c0948cc32ec22297e5a970b5f35eafb
+Torcob	B-drugs
+90mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+pain	B-clinical_findings
+relieving	O
+medicine	O
+.	O
+It	O
+is	O
+used	O
+for	O
+relieving	O
+moderate	O
+pain	B-clinical_findings
+and	O
+swelling	B-clinical_findings
+of	O
+joints	B-misc_medical
+associated	O
+with	O
+different	O
+forms	O
+of	O
+gout	B-clinical_findings
+and	O
+arthritis	B-clinical_findings
+.	O
+It	O
+effectively	O
+alleviates	O
+pain	B-clinical_findings
+,	O
+redness	B-clinical_findings
+and	O
+swelling	B-clinical_findings
+.	O
+
+# id = f5fd53140466557899051a213b4790cd
+Lipigo	B-drugs
+20	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+statins	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+lower	O
+cholesterol	B-clinical_findings
+and	O
+to	O
+reduce	O
+the	O
+risk	O
+of	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = bc81e7aba0eacfd8910e643577e1f871
+Silosam	B-drugs
+8	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+alpha	B-drugs
+adrenergic	I-drugs
+antagonist	I-drugs
+that	O
+is	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+benign	B-clinical_findings
+prostatic	I-clinical_findings
+hyperplasia	I-clinical_findings
+.	O
+It	O
+helps	O
+to	O
+relieve	O
+symptoms	O
+like	O
+difficulty	B-clinical_findings
+in	I-clinical_findings
+passing	I-clinical_findings
+urine	I-clinical_findings
+.	O
+However	O
+,	O
+it	O
+does	O
+not	O
+decrease	O
+the	O
+size	O
+of	O
+the	O
+prostate	O
+.	O
+
+# id = 9874cbfeaf677c38cc000c27591f2fa9
+There	O
+was	O
+no	O
+record	O
+of	O
+hypertension	B-clinical_findings
+,	O
+hypercholesterolemia	B-clinical_findings
+,	O
+tobacco	B-clinical_findings
+use	I-clinical_findings
+or	O
+previously	O
+known	O
+coronary	B-clinical_findings
+artery	I-clinical_findings
+disease	I-clinical_findings
+.	O
+Importantly	O
+,	O
+he	O
+was	O
+not	O
+taking	O
+any	O
+cardiovascular	B-drugs
+medication	I-drugs
+,	O
+including	O
+ASA	B-drugs
+.	O
+
+# id = b705d7c04a449ef758112e29bb08dc29
+Patient	O
+has	O
+a	O
+single	O
+tattoo	B-clinical_findings
+on	O
+the	O
+upper	O
+arm	O
+,	O
+with	O
+no	O
+signs	O
+of	O
+infection	B-clinical_findings
+or	O
+skin	B-clinical_findings
+irritation	I-clinical_findings
+.	O
+Engages	O
+in	O
+heavy	B-misc_medical
+weight	I-misc_medical
+lifting	I-misc_medical
+exercises	O
+regularly	O
+,	O
+which	O
+has	O
+led	O
+to	O
+significant	O
+muscle	B-clinical_findings
+development	I-clinical_findings
+and	O
+increased	O
+bone	B-clinical_findings
+density	I-clinical_findings
+.	O
+
+# id = 32214159548108748cb0abbc99bf28a9
+TTE	B-diagnostics
+,	O
+parasternal	B-diagnostics
+long	I-diagnostics
+axis	I-diagnostics
+view	I-diagnostics
+centered	O
+on	O
+the	O
+right	B-misc_medical
+chambers	I-misc_medical
+of	O
+the	O
+heart	B-misc_medical
+showing	O
+the	O
+filamentary	B-clinical_findings
+mass	I-clinical_findings
+appended	O
+between	O
+the	O
+pulmonary	B-misc_medical
+valve	I-misc_medical
+and	O
+the	O
+lateral	B-misc_medical
+wall	I-misc_medical
+of	O
+the	O
+right	B-misc_medical
+ventricle	I-misc_medical
+.	O
+
+# id = 55877cc423e85133694a8cb3178ef270
+The	O
+child	O
+complained	O
+of	O
+sensitivity	B-clinical_findings
+in	O
+the	O
+upper	B-clinical_findings
+anterior	I-clinical_findings
+teeth	I-clinical_findings
+.	O
+The	O
+medical	B-diagnostics
+history	I-diagnostics
+of	O
+the	O
+child	O
+was	O
+found	O
+to	O
+be	O
+insignificant	O
+.	O
+Proper	O
+immunization	B-misc_medical
+schedule	I-misc_medical
+was	O
+followed	O
+for	O
+the	O
+child	O
+.	O
+
+# id = cecce35cc489d56987022c34a79a6f03
+Iloperidone	B-drugs
+is	O
+an	O
+atypical	B-drugs
+antipsychotic	I-drugs
+,	O
+prescribed	O
+for	O
+schizophrenia	B-clinical_findings
+.	O
+When	O
+should	O
+Iloperidone	B-drugs
+not	O
+to	O
+be	O
+taken	O
+Hypersensitivity	B-clinical_findings
+.	O
+What	O
+is	O
+the	O
+dosage	O
+of	O
+Iloperidone	B-drugs
+PO	O
+-	O
+The	O
+recommended	O
+starting	O
+dose	O
+is	O
+1	B-drugs
+mg	I-drugs
+twice	I-drugs
+daily	I-drugs
+.	O
+
+# id = 5ef41a654deb2565ceac84aee755a993
+She	O
+had	O
+been	O
+diagnosed	O
+with	O
+breast	B-clinical_findings
+cancer	I-clinical_findings
+two	O
+months	O
+earlier	O
+and	O
+had	O
+undergone	O
+partial	B-diagnostics
+mastectomy	I-diagnostics
+with	O
+sentinel	B-diagnostics
+lymph	I-diagnostics
+node	I-diagnostics
+biopsy	I-diagnostics
+.	O
+After	O
+surgery	O
+,	O
+adjuvant	B-drugs
+chemotherapy	I-drugs
+of	O
+three	B-drugs
+cycles	I-drugs
+was	O
+administered	O
+.	O
+She	O
+had	O
+recently	O
+developed	O
+intermittent	B-clinical_findings
+abdominal	I-clinical_findings
+pain	I-clinical_findings
+.	O
+
+# id = 1821fec5bf456111cf752f0663e98c30
+Zetaglim	B-drugs
+M	I-drugs
+Forte	I-drugs
+3mg	I-drugs
+/	I-drugs
+1000mg	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+category	O
+of	O
+medicines	O
+known	O
+as	O
+anti	B-drugs
+-	I-drugs
+diabetic	I-drugs
+drugs	I-drugs
+.	O
+It	O
+is	O
+a	O
+combination	O
+of	O
+two	O
+medicines	O
+used	O
+to	O
+treat	O
+type	B-clinical_findings
+2	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+in	O
+adults	O
+.	O
+
+# id = ddbc8e1c214b0c2dacf7bbfd980a7e52
+Sporaz	B-drugs
+200	I-drugs
+Capsule	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+antifungals	B-drugs
+.	O
+It	O
+works	O
+by	O
+stopping	O
+the	O
+growth	O
+of	O
+fungus	B-clinical_findings
+and	O
+is	O
+used	O
+to	O
+treat	O
+infections	B-clinical_findings
+of	O
+the	O
+mouth	B-misc_medical
+,	O
+throat	B-misc_medical
+,	O
+vagina	B-misc_medical
+and	O
+other	O
+parts	O
+of	O
+the	O
+body	O
+including	O
+fingernails	B-misc_medical
+and	O
+toenails	B-misc_medical
+.	O
+
+# id = e5b207e402b13a3d63e5f67bff7f6d76
+He	O
+had	O
+no	O
+previous	O
+symptoms	B-clinical_findings
+prior	O
+to	O
+his	O
+presentation	O
+.	O
+He	O
+gave	O
+a	O
+history	O
+of	O
+having	O
+worked	O
+in	O
+a	O
+cocoa	O
+farm	O
+plantation	O
+during	O
+his	O
+childhood	O
+years	O
+and	O
+had	O
+severally	O
+suffered	O
+from	O
+bites	B-clinical_findings
+from	I-clinical_findings
+unknown	I-clinical_findings
+flies	I-clinical_findings
+.	O
+
+# id = 5254537982a74033c3729880990df9bd
+Verozin	B-drugs
+15mg	I-drugs
+/	I-drugs
+20mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+vertigo	B-clinical_findings
+.	O
+It	O
+prevents	O
+nausea	B-clinical_findings
+,	O
+vomiting	B-clinical_findings
+,	O
+and	O
+other	O
+symptoms	O
+of	O
+vertigo	B-clinical_findings
+.	O
+Verozin	B-drugs
+15mg	I-drugs
+/	I-drugs
+20mg	I-drugs
+Tablet	I-drugs
+is	O
+taken	B-advices
+without	I-advices
+food	I-advices
+in	O
+a	O
+dose	O
+and	O
+duration	O
+as	O
+advised	O
+by	O
+the	O
+doctor	O
+.	O
+
+# id = 1d25a4da00f8de564364d5cf2dc581f4
+Metrogyl	B-drugs
+400	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+antibiotic	B-drugs
+medicine	O
+that	O
+helps	O
+your	O
+body	O
+fight	O
+infections	B-clinical_findings
+caused	O
+by	O
+bacteria	B-misc_medical
+and	O
+parasites	B-misc_medical
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+infections	B-clinical_findings
+of	O
+the	O
+liver	B-misc_medical
+,	O
+stomach	B-misc_medical
+,	O
+intestines	B-misc_medical
+,	O
+vagina	B-misc_medical
+,	O
+brain	B-misc_medical
+,	O
+heart	B-misc_medical
+,	O
+lungs	B-misc_medical
+,	O
+bones	B-misc_medical
+and	O
+skin	B-misc_medical
+.	O
+
+# id = ca0da5dc0ece7eb55366dd56c92ec956
+Rimthree	B-drugs
+Fdc	I-drugs
+150	I-drugs
+mg	I-drugs
+/	I-drugs
+75	I-drugs
+mg	I-drugs
+/	I-drugs
+275	I-drugs
+mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+tuberculosis	B-clinical_findings
+.	O
+It	O
+prevents	O
+the	O
+growth	O
+of	O
+the	O
+microorganisms	O
+that	O
+cause	O
+the	O
+infection	O
+.	O
+
+# id = f330ca901bc62b089e5266981ccbf060
+In	O
+minimally	B-misc_medical
+invasive	I-misc_medical
+surgery	I-misc_medical
+,	O
+doctors	O
+use	O
+a	O
+variety	O
+of	O
+techniques	O
+to	O
+operate	O
+with	O
+less	O
+damage	O
+to	O
+the	O
+body	O
+than	O
+with	O
+open	B-misc_medical
+surgery	I-misc_medical
+.	O
+In	O
+general	O
+,	O
+minimally	B-misc_medical
+invasive	I-misc_medical
+surgery	I-misc_medical
+is	O
+associated	O
+with	O
+less	O
+pain	B-clinical_findings
+,	O
+a	O
+shorter	O
+hospital	O
+stay	O
+and	O
+fewer	O
+complications	B-clinical_findings
+.	O
+
+# id = edc56a1b2d7cd64ba635ec3c9678a5b0
+The	O
+patient	O
+worked	O
+as	O
+a	O
+laboratory	B-misc_medical
+technician	I-misc_medical
+and	O
+suffered	O
+from	O
+chronic	B-clinical_findings
+joint	I-clinical_findings
+pains	I-clinical_findings
+for	O
+more	O
+than	O
+5	O
+years	O
+.	O
+Although	O
+she	O
+was	O
+under	O
+treatment	O
+she	O
+reported	O
+worsening	B-clinical_findings
+pain	I-clinical_findings
+and	O
+an	O
+inability	B-clinical_findings
+to	I-clinical_findings
+function	I-clinical_findings
+.	O
+
+# id = 81f1d8706d71e3111af247d4b6e7893c
+Onapil	B-drugs
+0	I-drugs
+.	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+epilepsy	B-clinical_findings
+seizures	B-clinical_findings
+and	O
+anxiety	B-clinical_findings
+disorder	I-clinical_findings
+.	O
+It	O
+helps	O
+to	O
+decrease	O
+the	O
+abnormal	B-clinical_findings
+and	I-clinical_findings
+excessive	I-clinical_findings
+activity	I-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+nerve	I-clinical_findings
+cells	I-clinical_findings
+and	O
+calms	O
+the	O
+brain	O
+.	O
+
+# id = b96072bf3715ae3b57109a7e852c929d
+Ten	O
+months	O
+previously	O
+,	O
+the	O
+patient	O
+had	O
+been	O
+seated	O
+in	O
+the	O
+left	O
+rear	O
+passenger	O
+seat	O
+in	O
+a	O
+car	O
+that	O
+was	O
+hit	O
+in	O
+the	O
+left	O
+side	O
+by	O
+another	O
+car	O
+.	O
+
+# id = 9377c2d8607ac6ba86d8427a9fc58c0c
+More	O
+recently	O
+,	O
+he	O
+had	O
+developed	O
+acute	B-clinical_findings
+heart	I-clinical_findings
+failure	I-clinical_findings
+manifested	O
+by	O
+bilateral	B-clinical_findings
+leg	I-clinical_findings
+oedema	I-clinical_findings
+,	O
+facial	B-clinical_findings
+oedema	I-clinical_findings
+and	O
+difficulty	B-clinical_findings
+in	I-clinical_findings
+breathing	I-clinical_findings
+together	O
+with	O
+severe	O
+and	O
+difficult	O
+to	O
+control	O
+hypertension	B-clinical_findings
+with	O
+wide	B-clinical_findings
+pulse	I-clinical_findings
+pressures	I-clinical_findings
+.	O
+
+# id = c4398e01a5bfabf1fe95d40bf25abfe8
+Clomiphene	B-drugs
+is	O
+an	O
+ovulatory	B-drugs
+stimulant	I-drugs
+,	O
+prescribed	O
+for	O
+infertility	B-clinical_findings
+due	O
+to	O
+anovulation	B-clinical_findings
+.	O
+Clomiphene	B-drugs
+increases	O
+production	O
+of	O
+gonadotropins	B-misc_medical
+and	O
+causes	O
+the	O
+ovaries	B-misc_medical
+to	O
+release	O
+1	O
+or	O
+more	O
+eggs	B-misc_medical
+.	O
+When	O
+should	O
+Clomiphene	B-drugs
+not	O
+to	O
+be	O
+taken	O
+
+# id = b8225974b0433ef6f4fb097187f5eeb4
+There	O
+was	O
+no	O
+history	O
+of	O
+bowel	B-clinical_findings
+or	I-clinical_findings
+bladder	I-clinical_findings
+dysfunction	I-clinical_findings
+.	O
+There	O
+was	O
+no	O
+significant	O
+past	B-misc_medical
+medical	I-misc_medical
+history	I-misc_medical
+or	O
+preceding	O
+trauma	B-clinical_findings
+.	O
+The	O
+general	B-diagnostics
+physical	I-diagnostics
+examination	I-diagnostics
+was	O
+within	O
+normal	O
+limits	O
+.	O
+
+# id = d2148d93f1129cd1d7b6f058f026f612
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+thyroxine	B-drugs
+-	O
+induced	O
+thyrotoxicosis	B-clinical_findings
+,	O
+statin	B-drugs
+-	O
+induced	O
+myopathy	B-clinical_findings
+,	O
+and	O
+multiple	O
+food	B-clinical_findings
+allergies	I-clinical_findings
+since	O
+childhood	O
+.	O
+Additionally	O
+,	O
+a	O
+drug	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+reaction	I-clinical_findings
+and	O
+a	O
+known	O
+drug	B-clinical_findings
+allergy	I-clinical_findings
+present	O
+with	O
+rashes	B-clinical_findings
+and	O
+respiratory	B-clinical_findings
+distress	I-clinical_findings
+.	O
+
+# id = 6fa087335de72a06e77911151fab0264
+TRIG	B-diagnostics
+/	I-diagnostics
+HDL	I-diagnostics
+RATIO	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+3	O
+.	O
+64	O
+ratio	O
+WBCs	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+11	O
+.	O
+91	O
+10	O
+*	O
+3	O
+/	O
+mm3	O
+RED	B-diagnostics
+BLOOD	I-diagnostics
+CELL	I-diagnostics
+COUNT	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+4	O
+.	O
+35	O
+10	O
+*	O
+6	O
+/	O
+mm3	O
+
+# id = 4e221f3dea42577c2c88ef3fe0402092
+RBC	B-diagnostics
+IR	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+4	B-diagnostics
+.	I-diagnostics
+19	I-diagnostics
+10	I-diagnostics
+*	I-diagnostics
+6	I-diagnostics
+/	I-diagnostics
+mm3	I-diagnostics
+Absolute	B-diagnostics
+Eosinophils	I-diagnostics
+Count	I-diagnostics
+EOS	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+0	B-diagnostics
+.	I-diagnostics
+2	I-diagnostics
+10	I-diagnostics
+*	I-diagnostics
+3	I-diagnostics
+/	I-diagnostics
+mm3	I-diagnostics
+PLATELET	B-diagnostics
+DISTRIBUTION	I-diagnostics
+WIDTH	I-diagnostics
+SD	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+10	B-diagnostics
+.	I-diagnostics
+5	I-diagnostics
+fL	I-diagnostics
+
+# id = e088f079ddf03f79aec91edd1cf4413a
+Carbidopa	B-drugs
+-	I-drugs
+Levodopa	I-drugs
+combination	O
+contains	O
+antidyskinetic	B-drugs
+drugs	I-drugs
+,	O
+prescribed	O
+for	O
+Parkinsons	B-clinical_findings
+disease	I-clinical_findings
+.	O
+The	O
+addition	O
+of	O
+Carbidopa	B-drugs
+enhances	O
+lower	O
+dose	O
+of	O
+Levodopa	B-drugs
+to	O
+be	O
+used	O
+.	O
+When	O
+should	O
+Carbidopa	B-drugs
+-	I-drugs
+Levodopa	I-drugs
+not	O
+to	O
+be	O
+taken	O
+
+# id = 17f308aaeda992cc249e42d000284ba0
+Nebicip	B-drugs
+2	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+beta	B-drugs
+-	I-drugs
+blockers	I-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+hypertension	B-clinical_findings
+.	O
+It	O
+also	O
+helps	O
+to	O
+prevent	O
+future	O
+heart	B-clinical_findings
+attacks	I-clinical_findings
+and	O
+stroke	B-clinical_findings
+and	O
+to	O
+prevent	O
+migraine	B-clinical_findings
+.	O
+
+# id = 31ea7222b091fe0937a485b80d9ddf93
+The	O
+patient	O
+has	O
+a	O
+known	O
+pollen	B-clinical_findings
+allergy	I-clinical_findings
+causing	O
+seasonal	B-clinical_findings
+rhinitis	I-clinical_findings
+and	O
+conjunctivitis	B-clinical_findings
+.	O
+Additionally	O
+,	O
+they	O
+have	O
+a	O
+history	O
+of	O
+statin	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+myopathy	I-clinical_findings
+and	O
+nitrate	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+hypotension	I-clinical_findings
+.	O
+A	O
+metformin	B-drugs
+allergy	O
+,	O
+with	O
+a	O
+history	O
+of	O
+rash	B-clinical_findings
+and	O
+gastrointestinal	B-clinical_findings
+distress	I-clinical_findings
+,	O
+has	O
+also	O
+been	O
+reported	O
+.	O
+
+# id = af90849b215c701e1ee7c48fb6b0bb64
+The	O
+neoplastic	B-clinical_findings
+mass	I-clinical_findings
+was	O
+surgically	B-misc_medical
+removed	I-misc_medical
+in	O
+May	O
+2012	O
+,	O
+and	O
+the	O
+histological	B-diagnostics
+examination	I-diagnostics
+showed	O
+a	O
+synovial	B-clinical_findings
+sarcoma	I-clinical_findings
+with	O
+close	B-clinical_findings
+surgical	I-clinical_findings
+margins	I-clinical_findings
+.	O
+Consequently	O
+,	O
+adjuvant	B-misc_medical
+chemotherapy	I-misc_medical
+with	O
+Doxorubicin	B-drugs
+and	O
+Ifosfamide	B-drugs
+was	O
+administered	O
+for	O
+a	O
+total	O
+of	O
+six	O
+cycles	O
+.	O
+
+# id = 6a7245510f485c042c506e2a491b210a
+Sevelam	B-drugs
+400	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+to	O
+treat	O
+increased	B-clinical_findings
+phosphate	I-clinical_findings
+level	I-clinical_findings
+in	O
+the	O
+blood	O
+.	O
+It	O
+is	O
+used	O
+in	O
+patients	O
+who	O
+are	O
+on	O
+dialysis	B-diagnostics
+due	O
+to	O
+severe	B-clinical_findings
+kidney	I-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = b63a1b6209ca6c2058d25a7faaeb29e7
+Patient	O
+has	O
+a	O
+long	O
+-	O
+standing	O
+habit	O
+of	O
+tobacco	B-clinical_findings
+chewing	I-clinical_findings
+,	O
+consuming	O
+several	O
+pouches	O
+per	O
+day	O
+,	O
+leading	O
+to	O
+stained	B-clinical_findings
+teeth	I-clinical_findings
+and	O
+increased	O
+risk	O
+of	O
+oral	B-clinical_findings
+cancer	I-clinical_findings
+.	O
+Occupation	O
+as	O
+a	O
+teacher	O
+involves	O
+regular	O
+public	O
+speaking	O
+,	O
+which	O
+may	O
+be	O
+impacted	O
+by	O
+the	O
+tobacco	B-clinical_findings
+use	I-clinical_findings
+.	O
+
+# id = 00eb126e130585fb6e9c14f94adb43cb
+Amlopres	B-drugs
+10	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+class	O
+of	O
+medicines	O
+known	O
+as	O
+a	O
+calcium	B-drugs
+channel	I-drugs
+blockers	I-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+hypertension	B-clinical_findings
+and	O
+prevent	O
+angina	B-clinical_findings
+heart	B-clinical_findings
+-	I-clinical_findings
+related	I-clinical_findings
+chest	I-clinical_findings
+pain	I-clinical_findings
+.	O
+
+# id = e257bae3a1a5b381ca5958c31e7c17db
+Tenolol	B-drugs
+12	I-drugs
+.	I-drugs
+5	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+beta	B-drugs
+-	I-drugs
+blockers	I-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+hypertension	B-clinical_findings
+,	O
+angina	B-clinical_findings
+heart	B-clinical_findings
+-	I-clinical_findings
+related	I-clinical_findings
+chest	I-clinical_findings
+pain	I-clinical_findings
+,	O
+irregular	B-clinical_findings
+heart	I-clinical_findings
+rhythms	I-clinical_findings
+arrhythmia	B-clinical_findings
+.	O
+
+# id = 2629837bef9abf9bbd909fd114c77915
+Doxercalciferol	B-drugs
+is	O
+a	O
+recombinant	B-drugs
+human	I-drugs
+deoxyribonuclease	I-drugs
+I	I-drugs
+rhDNase	I-drugs
+enzyme	I-drugs
+,	O
+prescribed	O
+for	O
+lung	B-clinical_findings
+infections	I-clinical_findings
+and	O
+to	O
+improve	O
+lung	B-clinical_findings
+function	I-clinical_findings
+in	O
+patients	O
+with	O
+cystic	B-clinical_findings
+fibrosis	I-clinical_findings
+.	O
+Doxercalciferol	B-drugs
+helps	O
+in	O
+proper	O
+absorption	O
+of	O
+calcium	B-drugs
+and	O
+phosphate	B-drugs
+by	O
+the	O
+body	O
+.	O
+
+# id = af810087e06d601df1f64fad6c1f3a7a
+Systematic	O
+examination	O
+revealed	O
+a	O
+20	B-clinical_findings
+10	I-clinical_findings
+cm	I-clinical_findings
+sized	I-clinical_findings
+mass	I-clinical_findings
+at	O
+the	O
+right	B-clinical_findings
+anterior	I-clinical_findings
+mediastinum	I-clinical_findings
+that	O
+involved	O
+the	O
+right	B-clinical_findings
+pulmonary	I-clinical_findings
+vein	I-clinical_findings
+and	O
+elevated	O
+levels	O
+of	O
+alpha	B-diagnostics
+fetoprotein	I-diagnostics
+AFP	B-diagnostics
+,	O
+a	O
+tumor	O
+marker	O
+,	O
+at	O
+3825	B-diagnostics
+ng	I-diagnostics
+/	I-diagnostics
+ml	I-diagnostics
+.	O
+
+# id = 60afe47a922b7bb3f7cf9b3c7b74ad2e
+Testosterone	B-drugs
+Fortesta	I-drugs
+is	O
+a	O
+topical	B-drugs
+gel	I-drugs
+,	O
+prescribed	O
+for	O
+treatment	O
+of	O
+low	B-clinical_findings
+testosterone	I-clinical_findings
+.	O
+When	O
+should	O
+Testosterone	B-drugs
+Fortesta	I-drugs
+not	O
+to	O
+be	O
+taken	O
+Contraindicated	O
+in	O
+patients	O
+with	O
+breast	B-clinical_findings
+cancer	I-clinical_findings
+,	O
+prostate	B-clinical_findings
+cancer	I-clinical_findings
+,	O
+women	O
+and	O
+children	O
+.	O
+What	O
+is	O
+the	O
+dosage	O
+of	O
+Testosterone	B-drugs
+Fortesta	I-drugs
+
+# id = 42145e25309a1112364ae950e503ba5e
+Gabawell	B-drugs
+100mg	I-drugs
+Capsule	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+relieve	O
+the	O
+pain	B-clinical_findings
+caused	O
+by	O
+nerve	B-clinical_findings
+damage	I-clinical_findings
+neuropathic	B-clinical_findings
+pain	I-clinical_findings
+due	O
+to	O
+various	O
+conditions	O
+like	O
+diabetes	B-clinical_findings
+,	O
+shingles	B-clinical_findings
+herpes	B-clinical_findings
+zoster	I-clinical_findings
+infection	I-clinical_findings
+,	O
+spinal	B-clinical_findings
+cord	I-clinical_findings
+injury	I-clinical_findings
+,	O
+etc	O
+.	O
+
+# id = 907a125c0aa24c48736a65cdc9d3170b
+Romilast	B-drugs
+10mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+for	O
+asthma	B-clinical_findings
+prevention	O
+and	O
+for	O
+the	O
+treatment	O
+of	O
+allergy	B-clinical_findings
+symptoms	O
+such	O
+as	O
+sneezing	B-clinical_findings
+and	O
+runny	B-clinical_findings
+nose	I-clinical_findings
+.	O
+It	O
+reduces	O
+inflammation	B-clinical_findings
+in	O
+the	O
+airways	B-misc_medical
+and	O
+make	O
+breathing	B-misc_medical
+easier	O
+.	O
+
+# id = 1ef58046ba4f9075bdf559b2792acd94
+Diverty	B-drugs
+20mg	I-drugs
+/	I-drugs
+40mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+to	O
+treat	O
+vertigo	B-clinical_findings
+.	O
+It	O
+is	O
+a	O
+combination	O
+medicine	O
+which	O
+acts	O
+by	O
+relaxing	B-clinical_findings
+vascular	I-clinical_findings
+smooth	I-clinical_findings
+muscles	I-clinical_findings
+of	O
+the	O
+blood	B-misc_medical
+vessels	I-misc_medical
+of	O
+the	O
+ear	O
+and	O
+improves	O
+the	O
+blood	B-misc_medical
+circulation	I-misc_medical
+.	O
+
+# id = e669570fc0c793e6e998123cab97cc90
+PCV	B-diagnostics
+Packed	B-diagnostics
+Cell	I-diagnostics
+Volume	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+48	B-diagnostics
+.	I-diagnostics
+7	I-diagnostics
+%	I-diagnostics
+EDTA	B-diagnostics
+BLOOD	I-diagnostics
+MONOCYTES	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+7	B-diagnostics
+.	I-diagnostics
+6	I-diagnostics
+%	I-diagnostics
+CLARITY	B-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+
+# id = 5c66d217e8773d935cabba576f0b650f
+Zepovan	B-drugs
+8mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+wide	O
+variety	O
+of	O
+medical	O
+conditions	O
+such	O
+as	O
+severe	B-clinical_findings
+allergic	I-clinical_findings
+conditions	I-clinical_findings
+,	O
+asthma	B-clinical_findings
+,	O
+rheumatic	B-clinical_findings
+disorder	I-clinical_findings
+,	O
+skin	O
+and	O
+eye	B-clinical_findings
+disorders	I-clinical_findings
+,	O
+and	O
+systemic	B-clinical_findings
+lupus	I-clinical_findings
+erythematosus	I-clinical_findings
+.	O
+
+# id = 8f72b9cd593418f3a0c90bc31651b4aa
+Axial	B-diagnostics
+black	I-diagnostics
+blood	I-diagnostics
+image	I-diagnostics
+of	O
+the	O
+superior	O
+mediastinum	O
+acquired	O
+at	O
+the	O
+time	O
+of	O
+CMR	B-diagnostics
+showing	O
+a	O
+linear	B-clinical_findings
+high	I-clinical_findings
+signal	I-clinical_findings
+entity	I-clinical_findings
+in	O
+the	O
+apical	B-misc_medical
+segment	I-misc_medical
+of	O
+the	O
+right	B-misc_medical
+upper	I-misc_medical
+lobe	I-misc_medical
+solid	O
+white	O
+arrows	O
+consistent	O
+with	O
+an	O
+incidental	O
+azygous	B-clinical_findings
+lobe	I-clinical_findings
+fissure	I-clinical_findings
+
+# id = 4bc9b6bafe78580ee53f2deea28a63e9
+Hydrocodone	B-drugs
+and	O
+Chlorpheniramine	B-drugs
+is	O
+a	O
+combination	O
+of	O
+antihistamine	B-drugs
+and	O
+narcotic	B-drugs
+cough	I-drugs
+suppressant	I-drugs
+,	O
+prescribed	O
+for	O
+relief	O
+of	O
+cough	B-clinical_findings
+and	O
+respiratory	B-clinical_findings
+symptoms	I-clinical_findings
+due	O
+to	O
+allergy	B-clinical_findings
+or	O
+cold	B-clinical_findings
+.	O
+Hydrocodone	B-drugs
+blocks	O
+allergic	B-clinical_findings
+reactions	I-clinical_findings
+,	O
+reduces	O
+the	O
+production	O
+of	O
+mucus	B-clinical_findings
+and	O
+relieves	O
+pain	B-clinical_findings
+.	O
+
+# id = 2c36e93e4e744a3deea41629917007d5
+Pregaba	B-drugs
+NT	I-drugs
+75	I-drugs
+mg	I-drugs
+/	I-drugs
+10	I-drugs
+mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+medicine	O
+used	O
+for	O
+the	O
+treatment	O
+of	O
+neuropathic	B-clinical_findings
+pain	I-clinical_findings
+.	O
+This	O
+medicine	O
+decreases	O
+the	O
+pain	B-clinical_findings
+by	O
+stopping	O
+the	O
+movement	O
+of	O
+pain	B-clinical_findings
+signals	I-clinical_findings
+to	O
+the	O
+brain	B-misc_medical
+.	O
+Pregaba	B-drugs
+NT	I-drugs
+75	I-drugs
+
+# id = 402362dca4176138ab61648e513cfde4
+Zepox	B-drugs
+25mg	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+class	O
+of	O
+medicines	O
+known	O
+as	O
+benzodiazepine	B-drugs
+anxiolytics	I-drugs
+.	O
+It	O
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+severe	B-clinical_findings
+anxiety	I-clinical_findings
+.	O
+It	O
+alters	O
+brain	B-clinical_findings
+activity	I-clinical_findings
+,	O
+calms	O
+it	O
+and	O
+provides	O
+relief	O
+from	O
+panic	B-clinical_findings
+attacks	I-clinical_findings
+by	O
+relaxing	O
+the	O
+nerves	O
+.	O
+
+# id = 1d3f2d95f70d11c92b457de951b16f7d
+Patient	O
+has	O
+a	O
+history	O
+of	O
+smoking	B-clinical_findings
+,	O
+having	O
+quit	O
+the	O
+habit	O
+approximately	O
+5	O
+years	O
+ago	O
+.	O
+Significant	O
+improvement	O
+in	O
+lung	B-clinical_findings
+function	I-clinical_findings
+and	O
+reduced	O
+risk	O
+of	O
+smoking	B-clinical_findings
+-	I-clinical_findings
+related	I-clinical_findings
+diseases	I-clinical_findings
+observed	O
+since	O
+cessation	B-misc_medical
+.	O
+
+# id = 12d6a4f789ea505e9f3b7c94662c9e02
+She	O
+developed	O
+progressive	O
+difficulty	B-clinical_findings
+in	I-clinical_findings
+swallowing	I-clinical_findings
+and	O
+breathing	B-clinical_findings
+for	O
+the	O
+last	O
+three	O
+months	O
+.	O
+On	O
+examination	O
+,	O
+there	O
+was	O
+a	O
+presence	O
+of	O
+large	O
+neck	B-clinical_findings
+swelling	I-clinical_findings
+,	O
+multinodular	B-clinical_findings
+,	O
+which	O
+moved	B-clinical_findings
+on	I-clinical_findings
+deglutition	I-clinical_findings
+,	O
+with	O
+lower	B-clinical_findings
+limit	I-clinical_findings
+of	I-clinical_findings
+swelling	I-clinical_findings
+not	I-clinical_findings
+palpable	I-clinical_findings
+.	O
+
+# id = 6e0b6f8f1239625f973075186f5226f3
+Telkonol	B-drugs
+AM	I-drugs
+40mg	I-drugs
+/	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+contains	O
+two	O
+medicines	O
+,	O
+both	O
+of	O
+which	O
+help	O
+to	O
+control	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+.	O
+It	O
+lowers	O
+the	O
+blood	B-clinical_findings
+pressure	I-clinical_findings
+by	O
+relaxing	O
+the	O
+blood	B-misc_medical
+vessels	I-misc_medical
+and	O
+making	O
+it	O
+easier	O
+for	O
+your	O
+heart	B-misc_medical
+to	O
+pump	O
+blood	B-misc_medical
+around	O
+your	O
+body	O
+.	O
+
+# id = f0cf0855d9dcda852630bd070e62280c
+GLUCOBAY	B-drugs
+100	I-drugs
+MG	I-drugs
+TABLET	I-drugs
+is	O
+used	O
+to	O
+treat	O
+people	O
+with	O
+type	B-clinical_findings
+2	I-clinical_findings
+diabetes	I-clinical_findings
+mellitus	I-clinical_findings
+.	O
+It	O
+helps	O
+lower	O
+the	O
+blood	B-diagnostics
+sugar	I-diagnostics
+levels	I-diagnostics
+after	O
+meals	O
+.	O
+It	O
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+known	O
+as	O
+alpha	B-drugs
+-	I-drugs
+glucosidase	I-drugs
+inhibitors	I-drugs
+.	O
+
+# id = 8f9f471a7399949fbe900d13cafcc4df
+The	O
+patient	O
+has	O
+a	O
+known	O
+allergy	O
+,	O
+an	O
+allergy	O
+to	O
+allopurinol	B-drugs
+since	O
+2015	O
+presenting	O
+with	O
+rash	B-clinical_findings
+and	O
+swelling	B-clinical_findings
+,	O
+steroid	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+hyperglycemia	I-clinical_findings
+,	O
+and	O
+thyroxine	B-drugs
+-	O
+induced	O
+palpitations	B-clinical_findings
+.	O
+Additionally	O
+,	O
+the	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+metformin	B-drugs
+intolerance	O
+causing	O
+gastrointestinal	B-clinical_findings
+distress	I-clinical_findings
+.	O
+
+# id = 594f894f8602b55c3ac2e68071f245f6
+Ozepam	B-drugs
+0	I-drugs
+.	I-drugs
+25mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+to	O
+treat	O
+epilepsy	B-clinical_findings
+seizures	I-clinical_findings
+and	O
+anxiety	B-clinical_findings
+disorder	I-clinical_findings
+.	O
+It	O
+helps	O
+to	O
+decrease	O
+the	O
+abnormal	B-clinical_findings
+and	I-clinical_findings
+excessive	I-clinical_findings
+activity	I-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+nerve	I-clinical_findings
+cells	I-clinical_findings
+and	O
+calms	B-clinical_findings
+the	I-clinical_findings
+brain	I-clinical_findings
+.	O
+
+# id = 8648aafbc3da806de3f73abfa0a04f2d
+History	O
+revealed	O
+that	O
+the	O
+patient	O
+was	O
+apparently	O
+alright	O
+2	O
+years	O
+back	O
+,	O
+when	O
+he	O
+first	O
+noticed	O
+a	O
+small	O
+pea	O
+nut	O
+size	O
+ulcerative	B-clinical_findings
+growth	I-clinical_findings
+over	O
+left	B-misc_medical
+lower	I-misc_medical
+eyelid	I-misc_medical
+near	O
+medial	B-misc_medical
+canthus	I-misc_medical
+.	O
+The	O
+growth	O
+was	O
+painless	B-clinical_findings
+and	O
+persistent	O
+in	O
+growth	O
+.	O
+
+# id = e5cf689d8110d901a9d0af4a191832f0
+MALARIA	B-diagnostics
+PARASITE	I-diagnostics
+-	I-diagnostics
+SLIDE	I-diagnostics
+METHOD	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+HEPATITIS	B-diagnostics
+B	I-diagnostics
+SURFACE	I-diagnostics
+ANTIGEN	I-diagnostics
+HBsAg	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+Absolute	B-diagnostics
+Eosinophils	I-diagnostics
+Count	I-diagnostics
+EOS	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+0	B-clinical_findings
+.	I-clinical_findings
+2	I-clinical_findings
+10	I-clinical_findings
+*	I-clinical_findings
+3	I-clinical_findings
+/	I-clinical_findings
+mm3	I-clinical_findings
+
+# id = f17d0f753bca3872fdd00f44c8079aa0
+Rozagold	B-drugs
+20	I-drugs
+Capsule	I-drugs
+is	O
+used	O
+for	O
+prevention	O
+of	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+.	O
+It	O
+is	O
+a	O
+combination	O
+of	O
+medicines	O
+that	O
+prevent	O
+clot	B-clinical_findings
+formation	I-clinical_findings
+in	O
+the	O
+blood	B-misc_medical
+vessels	I-misc_medical
+.	O
+It	O
+also	O
+helps	O
+to	O
+reduce	O
+increased	O
+cholesterol	B-clinical_findings
+and	O
+triglycerides	B-clinical_findings
+levels	O
+.	O
+
+# id = 880e36bb1ba5c6f4a5c759965d7f2983
+The	O
+patient	O
+has	O
+a	O
+known	O
+allergy	O
+to	O
+hair	B-misc_medical
+dye	I-misc_medical
+,	O
+amlodipine	B-drugs
+-	O
+induced	O
+edema	B-clinical_findings
+,	O
+and	O
+a	O
+food	B-clinical_findings
+allergy	I-clinical_findings
+to	O
+corn	B-misc_medical
+.	O
+Additionally	O
+,	O
+the	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+unspecified	B-clinical_findings
+allergies	I-clinical_findings
+since	O
+an	O
+unknown	O
+time	O
+,	O
+presenting	O
+with	O
+various	O
+symptoms	O
+upon	O
+exposure	O
+.	O
+
+# id = 9ae2992af209d6b19bca1cb0538ca704
+Razel	B-drugs
+5	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+statins	B-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+lower	O
+cholesterol	B-clinical_findings
+and	O
+to	O
+reduce	O
+the	O
+risk	O
+of	O
+heart	B-clinical_findings
+disease	I-clinical_findings
+.	O
+
+# id = 6d50843a24521999659cdf27120b9051
+His	O
+symptoms	B-clinical_findings
+started	O
+a	O
+month	O
+ago	O
+without	O
+any	O
+specific	O
+trauma	O
+.	O
+He	O
+had	O
+a	O
+history	O
+of	O
+open	B-misc_medical
+reduction	I-misc_medical
+and	I-misc_medical
+internal	I-misc_medical
+fixation	I-misc_medical
+performed	O
+for	O
+a	O
+tibial	B-clinical_findings
+plateau	I-clinical_findings
+fracture	I-clinical_findings
+that	O
+occurred	O
+when	O
+his	O
+left	B-misc_medical
+knee	I-misc_medical
+was	O
+pinned	O
+under	O
+a	O
+tree	O
+18	O
+years	O
+ago	O
+.	O
+
+# id = d57f2d73c45150165256c49ec0bc624c
+Losartar	B-drugs
+50	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+and	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+.	O
+Lowering	O
+blood	B-clinical_findings
+pressure	I-clinical_findings
+helps	O
+to	O
+prevent	O
+future	O
+heart	B-clinical_findings
+attack	I-clinical_findings
+and	O
+stroke	B-clinical_findings
+.	O
+This	O
+medicine	O
+is	O
+also	O
+effective	O
+in	O
+preserving	O
+kidney	B-clinical_findings
+function	I-clinical_findings
+in	O
+patients	O
+with	O
+diabetes	B-clinical_findings
+.	O
+
+# id = 2c77d6a75cc79d09f6071982b0c8dc2c
+Initially	O
+,	O
+it	O
+had	O
+been	O
+just	O
+one	O
+swelling	B-clinical_findings
+on	O
+the	O
+right	B-clinical_findings
+lateral	I-clinical_findings
+neck	I-clinical_findings
+but	O
+over	O
+time	O
+,	O
+the	O
+swellings	B-clinical_findings
+had	O
+increased	O
+in	O
+size	O
+and	O
+number	O
+.	O
+They	O
+were	O
+painful	B-clinical_findings
+and	O
+tender	B-clinical_findings
+to	O
+the	O
+touch	O
+and	O
+the	O
+pain	B-clinical_findings
+intensity	I-clinical_findings
+had	O
+increased	O
+over	O
+the	O
+years	O
+.	O
+
+# id = 0d338c96194e279e66169b12719d78db
+Oflokem	B-drugs
+400mg	I-drugs
+Tablet	I-drugs
+is	O
+an	O
+antibiotic	B-drugs
+,	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+bacterial	B-clinical_findings
+infections	I-clinical_findings
+.	O
+It	O
+is	O
+also	O
+used	O
+in	O
+treating	O
+infections	B-clinical_findings
+of	I-clinical_findings
+the	I-clinical_findings
+urinary	I-clinical_findings
+tract	I-clinical_findings
+,	O
+nose	O
+,	O
+throat	O
+,	O
+skin	O
+and	O
+soft	O
+tissues	O
+and	O
+lungs	O
+pneumonia	B-clinical_findings
+.	O
+
+# id = cf45caa3994cebcef2d761827272d4e6
+Amlong	B-drugs
+7	I-drugs
+.	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+belongs	O
+to	O
+a	O
+class	O
+of	O
+medicines	O
+known	O
+as	O
+a	O
+calcium	B-drugs
+channel	I-drugs
+blockers	I-drugs
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+hypertension	B-clinical_findings
+and	O
+prevent	O
+angina	B-clinical_findings
+heart	B-clinical_findings
+-	I-clinical_findings
+related	I-clinical_findings
+chest	I-clinical_findings
+pain	I-clinical_findings
+.	O
+
+# id = 37c49ec2ba152f66f5dd1bd3c8061d7d
+At	O
+first	O
+,	O
+he	O
+visited	O
+the	O
+emergency	O
+room	O
+with	O
+epigastric	B-clinical_findings
+pain	I-clinical_findings
+.	O
+He	O
+had	O
+a	O
+history	O
+of	O
+hemigastrectomy	B-misc_medical
+and	O
+gastrojejunostomy	B-misc_medical
+for	O
+acute	B-clinical_findings
+gastric	I-clinical_findings
+ulcer	I-clinical_findings
+with	O
+perforation	B-clinical_findings
+4	O
+years	O
+ago	O
+.	O
+He	O
+also	O
+had	O
+a	O
+history	O
+of	O
+diabetes	B-clinical_findings
+mellitus	I-clinical_findings
+and	O
+30	B-clinical_findings
+pack	I-clinical_findings
+-	I-clinical_findings
+years	I-clinical_findings
+smoking	I-clinical_findings
+.	O
+
+# id = d436c9ba9c345ed62917097ec027d2bc
+Patient	O
+engages	O
+in	O
+regular	O
+heavy	B-misc_medical
+weight	I-misc_medical
+lifting	I-misc_medical
+sessions	O
+,	O
+building	O
+significant	O
+muscle	B-clinical_findings
+mass	I-clinical_findings
+and	O
+strength	B-clinical_findings
+.	O
+Occupation	O
+involves	O
+strenuous	B-misc_medical
+physical	I-misc_medical
+labor	I-misc_medical
+,	O
+leading	O
+to	O
+increased	O
+cardiovascular	B-clinical_findings
+fitness	I-clinical_findings
+and	O
+endurance	B-clinical_findings
+.	O
+
+# id = 093daa4bd8c92f3287f571ed7e602856
+More	O
+anteriorly	O
+the	O
+duodenum	B-misc_medical
+is	O
+seen	O
+curling	O
+around	O
+the	O
+diaphragm	B-misc_medical
+and	O
+entering	O
+the	O
+abdomen	B-misc_medical
+via	O
+the	O
+oesophageal	B-misc_medical
+hiatus	I-misc_medical
+.	O
+The	O
+proximal	B-misc_medical
+body	I-misc_medical
+and	O
+fundus	B-misc_medical
+are	O
+seen	O
+below	O
+the	O
+diaphragm	B-misc_medical
+.	O
+White	O
+arrows	O
+duodenum	B-misc_medical
+,	O
+thick	O
+white	O
+arrow	O
+diaphragm	B-misc_medical
+at	O
+the	O
+hiatus	B-misc_medical
+
+# id = 9e3a0cf10b9c18b2afb0afc9739770ce
+Olmesar	B-drugs
+12	I-drugs
+.	I-drugs
+5mg	I-drugs
+/	I-drugs
+40mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+combination	O
+of	O
+two	O
+medicines	O
+.	O
+It	O
+helps	O
+to	O
+control	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+in	O
+different	O
+ways	O
+.	O
+If	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+is	O
+not	O
+treated	O
+it	O
+can	O
+lead	O
+to	O
+heart	B-clinical_findings
+attacks	I-clinical_findings
+,	O
+strokes	B-clinical_findings
+and	O
+kidney	B-clinical_findings
+failure	I-clinical_findings
+.	O
+
+# id = 7328424809714f14ba19bf41c4d1c698
+Urine	B-diagnostics
+Sugar	I-diagnostics
+Fasting	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+SARS	B-diagnostics
+-	I-diagnostics
+CoV	I-diagnostics
+-	I-diagnostics
+2	I-diagnostics
+COVID	I-diagnostics
+-	I-diagnostics
+19	I-diagnostics
+,	O
+value	O
+is	O
+not	O
+available	O
+BLOOD	B-diagnostics
+SUGAR	I-diagnostics
+F	I-diagnostics
+.	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+134	B-diagnostics
+.	I-diagnostics
+0	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+
+# id = 33c2ee5c72489d4160d833e10275a06a
+Dutaprost	B-drugs
+0	I-drugs
+.	I-drugs
+5mg	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+benign	B-clinical_findings
+prostatic	I-clinical_findings
+hyperplasia	I-clinical_findings
+.	O
+It	O
+shrinks	O
+the	O
+size	O
+of	O
+the	O
+enlarged	B-clinical_findings
+prostate	I-clinical_findings
+gland	I-clinical_findings
+to	O
+relieve	O
+symptoms	O
+like	O
+pain	B-clinical_findings
+and	O
+difficulty	B-clinical_findings
+in	I-clinical_findings
+passing	I-clinical_findings
+urine	I-clinical_findings
+.	O
+
+# id = 994893ee4f639628578881eddaf2cbda
+SGPT	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+24	B-diagnostics
+.	I-diagnostics
+0	I-diagnostics
+U	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+HIGH	B-diagnostics
+SENSITIVITY	I-diagnostics
+C	I-diagnostics
+-	I-diagnostics
+REACTIVE	I-diagnostics
+PROTEIN	I-diagnostics
+HS	B-diagnostics
+-	I-diagnostics
+CRP	I-diagnostics
+,	O
+the	O
+value	O
+is	O
+23	B-diagnostics
+.	I-diagnostics
+74	I-diagnostics
+mg	I-diagnostics
+/	I-diagnostics
+L	I-diagnostics
+TOTAL	B-diagnostics
+PROTEIN	I-diagnostics
+,	O
+Serum	B-diagnostics
+,	O
+the	O
+value	O
+is	O
+6	B-diagnostics
+.	I-diagnostics
+9	I-diagnostics
+g	I-diagnostics
+/	I-diagnostics
+dL	I-diagnostics
+
+# id = aff57c568277bb815e3cca41315e5ca8
+Chest	B-diagnostics
+x	I-diagnostics
+-	I-diagnostics
+ray	I-diagnostics
+.	O
+This	O
+is	O
+a	O
+chest	O
+x	O
+-	O
+ray	O
+in	O
+the	O
+posteroanterior	B-diagnostics
+PA	I-diagnostics
+view	I-diagnostics
+showing	O
+bilateral	B-clinical_findings
+infiltrates	I-clinical_findings
+in	O
+both	O
+lower	B-misc_medical
+and	I-misc_medical
+left	I-misc_medical
+middle	I-misc_medical
+zones	I-misc_medical
+of	I-misc_medical
+lungs	I-misc_medical
+in	O
+the	O
+peripheral	B-misc_medical
+distribution	I-misc_medical
+
+# id = dc826416f72873027c790af3c983264d
+Salbutamol	B-drugs
+is	O
+a	O
+bronchodilator	B-misc_medical
+,	O
+prescribed	O
+for	O
+asthma	B-clinical_findings
+and	O
+chronic	B-clinical_findings
+obstructive	I-clinical_findings
+pulmonary	I-clinical_findings
+disease	I-clinical_findings
+COPD	B-clinical_findings
+.	O
+Salbutamol	B-drugs
+works	O
+by	O
+relaxing	O
+and	O
+opening	O
+the	O
+air	O
+passages	O
+to	O
+the	O
+lungs	O
+to	O
+make	O
+breathing	B-clinical_findings
+easier	O
+.	O
+When	O
+should	O
+Salbutamol	B-drugs
+not	O
+to	O
+be	O
+taken	O
+
+# id = 931ad43191c3be92c79f4df1c5dfcd45
+At	O
+another	O
+hospital	O
+in	O
+2002	O
+,	O
+he	O
+had	O
+been	O
+treated	O
+with	O
+internal	B-misc_medical
+fixation	I-misc_medical
+of	O
+the	O
+thoracic	B-misc_medical
+and	I-misc_medical
+lumbar	I-misc_medical
+spine	I-misc_medical
+due	O
+to	O
+an	O
+ankylosing	B-clinical_findings
+spondylitis	I-clinical_findings
+-	O
+associated	O
+spine	B-clinical_findings
+deformity	I-clinical_findings
+.	O
+He	O
+was	O
+clinically	O
+diagnosed	O
+with	O
+smear	B-clinical_findings
+-	I-clinical_findings
+negative	I-clinical_findings
+pulmonary	I-clinical_findings
+tuberculosis	I-clinical_findings
+in	O
+2004	O
+and	O
+received	O
+incomplete	B-misc_medical
+treatment	I-misc_medical
+.	O
+
+# id = 68745ee7a2748e29ac853050bbaeb174
+Pera	B-drugs
+Plus	I-drugs
+650mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+medicine	O
+used	O
+to	O
+relieve	O
+pain	B-clinical_findings
+and	O
+to	O
+reduce	O
+fever	B-clinical_findings
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+many	O
+conditions	O
+such	O
+as	O
+headache	B-clinical_findings
+,	O
+body	B-clinical_findings
+ache	I-clinical_findings
+,	O
+toothache	B-clinical_findings
+and	O
+common	B-clinical_findings
+cold	I-clinical_findings
+.	O
+
+# id = 5efc5e21d99e995e85bbd0f17e06f3f9
+Fosinopril	B-drugs
+is	O
+an	O
+angiotensin	B-drugs
+converting	I-drugs
+enzyme	I-drugs
+ACE	I-drugs
+inhibitor	I-drugs
+,	O
+prescribed	O
+for	O
+high	B-clinical_findings
+blood	I-clinical_findings
+pressure	I-clinical_findings
+,	O
+heart	B-clinical_findings
+failure	I-clinical_findings
+and	O
+preventing	O
+kidney	B-clinical_findings
+failure	I-clinical_findings
+.	O
+Fosinopril	B-drugs
+works	O
+by	O
+relaxing	O
+blood	B-misc_medical
+vessels	I-misc_medical
+.	O
+When	O
+should	O
+Fosinopril	B-drugs
+not	O
+to	O
+be	O
+taken	O
+
+# id = 8bcb72ca12768756a2f75c3283d53e61
+Patient	O
+was	O
+made	O
+NPO	B-advices
+with	O
+NG	B-diagnostics
+decompression	I-diagnostics
+in	O
+addition	O
+to	O
+receiving	O
+empiric	O
+meropenem	B-drugs
+at	O
+the	O
+outside	O
+facility	O
+where	O
+a	O
+cholecystoduodenal	B-clinical_findings
+fistula	I-clinical_findings
+with	O
+large	O
+gallstone	B-clinical_findings
+in	O
+the	O
+duodenal	B-misc_medical
+lumen	I-misc_medical
+was	O
+identified	O
+by	O
+abdominal	B-diagnostics
+CT	I-diagnostics
+.	O
+
+# id = c98a3558c1b89ce81b2d6f24349c3fff
+Nipcan	B-drugs
+150	I-drugs
+Capsule	I-drugs
+belongs	O
+to	O
+a	O
+group	O
+of	O
+medicines	O
+called	O
+antifungals	B-drugs
+.	O
+It	O
+works	O
+by	O
+stopping	O
+the	O
+growth	O
+of	O
+fungus	B-clinical_findings
+and	O
+is	O
+used	O
+to	O
+treat	O
+infections	B-clinical_findings
+of	O
+the	O
+mouth	B-misc_medical
+,	O
+throat	B-misc_medical
+,	O
+vagina	B-misc_medical
+,	O
+and	O
+other	O
+parts	O
+of	O
+the	O
+body	O
+including	O
+fingernails	B-misc_medical
+and	O
+toenails	B-misc_medical
+.	O
+
+# id = d541286a560dfbc91953d3e429d84fdd
+This	O
+event	O
+mirrored	O
+the	O
+AEs	B-clinical_findings
+,	O
+which	O
+required	O
+medical	O
+action	O
+by	O
+a	O
+doctor	O
+as	O
+reported	O
+in	O
+Case	O
+2	O
+.	O
+The	O
+young	O
+lady	O
+was	O
+a	O
+patient	O
+with	O
+an	O
+unusually	O
+high	O
+health	O
+risk	O
+for	O
+her	O
+age	O
+because	O
+of	O
+being	O
+obese	B-clinical_findings
+and	O
+suffering	O
+from	O
+diabetes	B-clinical_findings
+.	O
+
+# id = f5b2a4ee0dab48957fac8e08dde4d027
+Donep	B-drugs
+5	I-drugs
+Tablet	I-drugs
+is	O
+used	O
+to	O
+treat	O
+mild	B-clinical_findings
+to	I-clinical_findings
+moderate	I-clinical_findings
+dementia	I-clinical_findings
+in	O
+Alzheimers	B-clinical_findings
+disease	I-clinical_findings
+,	O
+a	O
+progressive	O
+illness	O
+that	O
+gradually	O
+affects	O
+memory	B-clinical_findings
+and	O
+thinking	B-clinical_findings
+.	O
+It	O
+does	O
+not	O
+cure	O
+this	O
+illness	O
+but	O
+may	O
+help	O
+improve	O
+memory	B-clinical_findings
+,	O
+awareness	B-clinical_findings
+,	O
+and	O
+other	O
+symptoms	O
+.	O
+
+# id = 1b9c4ff7b222cfa8e9d130a86d0b8596
+Coronary	B-diagnostics
+angiography	I-diagnostics
+showed	O
+mild	O
+atherosclerosis	B-clinical_findings
+of	O
+coronary	B-misc_medical
+vessels	I-misc_medical
+without	O
+significant	O
+lesions	B-clinical_findings
+.	O
+The	O
+right	B-misc_medical
+femoral	I-misc_medical
+artery	I-misc_medical
+was	O
+cannulated	O
+directly	O
+with	O
+a	O
+19	B-misc_medical
+French	I-misc_medical
+cannula	I-misc_medical
+Medtronic	B-misc_medical
+DLP	I-misc_medical
+femoral	I-misc_medical
+because	O
+right	B-misc_medical
+mini	I-misc_medical
+-	I-misc_medical
+thoracotomy	I-misc_medical
+access	O
+to	O
+the	O
+mitral	B-misc_medical
+valve	I-misc_medical
+was	O
+planned	O
+.	O
+
+# id = 9d36f0933cb79f2dd2607dd1249ad8f8
+Lurasid	B-drugs
+80mg	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+prescription	O
+medicine	O
+used	O
+in	O
+the	O
+treatment	O
+of	O
+schizophrenia	B-clinical_findings
+,	O
+a	O
+mental	O
+disorder	O
+that	O
+can	O
+result	O
+in	O
+hallucinations	B-clinical_findings
+or	O
+delusions	B-clinical_findings
+and	O
+also	O
+adversely	O
+affects	O
+a	O
+persons	O
+ability	O
+to	O
+think	O
+and	O
+behave	O
+.	O
+
+# id = 0cfec503bc8feebb43481b03e991bab1
+Pancrehenz	B-drugs
+25000	I-drugs
+Capsule	I-drugs
+is	O
+used	O
+to	O
+treat	O
+pancreatic	B-clinical_findings
+enzyme	I-clinical_findings
+deficiency	I-clinical_findings
+.	O
+It	O
+is	O
+a	O
+pancreatic	B-drugs
+enzyme	I-drugs
+supplement	I-drugs
+that	O
+helps	O
+in	O
+digestion	B-clinical_findings
+.	O
+This	O
+medicine	O
+also	O
+reduces	O
+stool	B-clinical_findings
+frequency	I-clinical_findings
+and	O
+stomach	B-clinical_findings
+discomfort	I-clinical_findings
+.	O
+
+# id = 97cd67e530887c2c14a6bde3adb74854
+Moxiforce	B-drugs
+-	I-drugs
+CV	I-drugs
+625	I-drugs
+Tablet	I-drugs
+is	O
+a	O
+penicillin	B-drugs
+-	O
+type	O
+of	O
+antibiotic	B-drugs
+that	O
+helps	O
+your	O
+body	O
+fight	O
+infections	B-clinical_findings
+caused	O
+by	O
+bacteria	O
+.	O
+It	O
+is	O
+used	O
+to	O
+treat	O
+infections	B-clinical_findings
+of	O
+the	O
+lungs	O
+e	O
+.	O
+g	O
+.	O
+,	O
+pneumonia	B-clinical_findings
+,	O
+ear	B-clinical_findings
+,	O
+nasal	B-clinical_findings
+sinus	I-clinical_findings
+,	O
+urinary	B-clinical_findings
+tract	I-clinical_findings
+,	O
+skin	B-clinical_findings
+and	I-clinical_findings
+soft	I-clinical_findings
+tissue	I-clinical_findings
+.	O
+
+# id = e9c859d7974a1d833422bdc35a655711
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+drug	B-clinical_findings
+-	I-clinical_findings
+induced	I-clinical_findings
+reactions	I-clinical_findings
+,	O
+a	O
+known	O
+lipstick	B-clinical_findings
+allergy	I-clinical_findings
+since	O
+2015	O
+,	O
+and	O
+a	O
+food	B-clinical_findings
+allergy	I-clinical_findings
+that	O
+started	O
+in	O
+childhood	O
+.	O
+Additionally	O
+,	O
+the	O
+patient	O
+has	O
+stopped	O
+a	O
+recent	O
+prescription	B-drugs
+medication	I-drugs
+due	O
+to	O
+adverse	O
+effects	O
+.	O
+

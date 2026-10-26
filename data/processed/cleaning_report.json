@@ -1,0 +1,36 @@
+{
+  "hi": {
+    "input_rows": 320,
+    "dropped_empty_text": 0,
+    "texts_changed_by_normalisation": 69,
+    "nested_spans_moved_to_nested_entities": 85,
+    "rows_with_names_masked": 2,
+    "spans_validated": 1760,
+    "dropped_duplicate_text": 4,
+    "duplicate_groups_with_conflicting_labels": 0,
+    "flag_no_entities": 10,
+    "flag_short_audio": 0,
+    "flag_pii": 0,
+    "speaker_unknown": 126,
+    "output_rows": 316,
+    "output_entities": 1733,
+    "spans_not_token_aligned": 2
+  },
+  "en": {
+    "input_rows": 3619,
+    "dropped_empty_text": 0,
+    "texts_changed_by_normalisation": 120,
+    "nested_spans_moved_to_nested_entities": 329,
+    "rows_with_names_masked": 0,
+    "spans_validated": 10798,
+    "dropped_duplicate_text": 292,
+    "duplicate_groups_with_conflicting_labels": 54,
+    "flag_no_entities": 10,
+    "flag_short_audio": 8,
+    "flag_pii": 0,
+    "speaker_unknown": 109,
+    "output_rows": 3327,
+    "output_entities": 10309,
+    "spans_not_token_aligned": 11
+  }
+}

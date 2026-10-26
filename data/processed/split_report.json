@@ -1,0 +1,159 @@
+{
+  "hi": {
+    "rows": {
+      "train": 221,
+      "val": 48,
+      "test": 47
+    },
+    "sessions": {
+      "train": 139,
+      "val": 32,
+      "test": 32
+    },
+    "entities": {
+      "train": 1195,
+      "val": 253,
+      "test": 285
+    },
+    "rows_by_context": {
+      "train": {
+        "conversation": 88,
+        "narration_sentence": 133
+      },
+      "val": {
+        "conversation": 19,
+        "narration_sentence": 29
+      },
+      "test": {
+        "conversation": 19,
+        "narration_sentence": 28
+      }
+    },
+    "entity_types": {
+      "train": {
+        "advices": 60,
+        "clinical_findings": 439,
+        "diagnostics": 76,
+        "drugs": 580,
+        "misc_medical": 40
+      },
+      "val": {
+        "advices": 20,
+        "clinical_findings": 82,
+        "diagnostics": 16,
+        "drugs": 125,
+        "misc_medical": 10
+      },
+      "test": {
+        "advices": 20,
+        "clinical_findings": 103,
+        "diagnostics": 14,
+        "drugs": 136,
+        "misc_medical": 12
+      }
+    },
+    "type_distribution_chi2": {
+      "chi2": 6.5,
+      "dof": 8,
+      "p_value": 0.5914,
+      "cramers_v": 0.0433
+    },
+    "leakage": {
+      "session_id": {
+        "train-val": 0,
+        "train-test": 0,
+        "val-test": 0
+      },
+      "exact_text": {
+        "train-val": 0,
+        "train-test": 0,
+        "val-test": 0
+      },
+      "normalised_text": {
+        "train-val": 0,
+        "train-test": 0,
+        "val-test": 0
+      }
+    }
+  },
+  "en": {
+    "rows": {
+      "train": 2329,
+      "val": 500,
+      "test": 498
+    },
+    "sessions": {
+      "train": 2276,
+      "val": 493,
+      "test": 491
+    },
+    "entities": {
+      "train": 7244,
+      "val": 1561,
+      "test": 1504
+    },
+    "rows_by_context": {
+      "train": {
+        "conversation": 76,
+        "narration_entity": 1369,
+        "narration_sentence": 884
+      },
+      "val": {
+        "conversation": 17,
+        "narration_entity": 293,
+        "narration_sentence": 190
+      },
+      "test": {
+        "conversation": 16,
+        "narration_entity": 293,
+        "narration_sentence": 189
+      }
+    },
+    "entity_types": {
+      "train": {
+        "advices": 257,
+        "clinical_findings": 3770,
+        "diagnostics": 726,
+        "drugs": 1681,
+        "misc_medical": 810
+      },
+      "val": {
+        "advices": 54,
+        "clinical_findings": 792,
+        "diagnostics": 160,
+        "drugs": 373,
+        "misc_medical": 182
+      },
+      "test": {
+        "advices": 42,
+        "clinical_findings": 845,
+        "diagnostics": 117,
+        "drugs": 347,
+        "misc_medical": 153
+      }
+    },
+    "type_distribution_chi2": {
+      "chi2": 16.077,
+      "dof": 8,
+      "p_value": 0.0413,
+      "cramers_v": 0.0279
+    },
+    "leakage": {
+      "session_id": {
+        "train-val": 0,
+        "train-test": 0,
+        "val-test": 0
+      },
+      "exact_text": {
+        "train-val": 0,
+        "train-test": 0,
+        "val-test": 0
+      },
+      "normalised_text": {
+        "train-val": 0,
+        "train-test": 0,
+        "val-test": 0
+      }
+    }
+  }
+}
